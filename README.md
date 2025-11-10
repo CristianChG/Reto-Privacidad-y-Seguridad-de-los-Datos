@@ -1,5 +1,19 @@
 # Reto-Privacidad-y-Seguridad-de-los-Datos
 
+Kevin Alejandro Ramírez Luna A01711063
+
+Cristian Chávez Guía A01710680
+
+José Eduardo Viveros Escamilla A01710605
+
+Fidel Alexander Bonilla Montalvo A01798199
+
+Guadalupe Paulina López Cuevas A01701095
+
+Angel Mauricio Ramirez Herrera A01710158
+
+Diego Antonio García Padilla A01710777
+
 # Normativas
 
 Investigacion Angel -> https://docs.google.com/document/d/1ZKq67SZJSEGS7omckxj90d4jJqqnMfqJ4R0wRJnb7iU/edit?usp=sharing
