@@ -1,0 +1,39 @@
+Evento,Tipo de evento,Fecha del evento,Descripción,Usuario,Comentario
+,Invitación Visita Veterinaria,18/10/2025,"18/10/2025, Vacas frescas",DR  RAFA (Veterinario),
+,Condición corporal,15/10/2025,Condición corporal: 3.64 - DDUP: 7,Admin,BCS Camera
+,Cambio tabla alimentación,11/10/2025,None -> primerizas-DEL,Admin,
+,Cambio de grupo,10/10/2025,"20, RETO -> 3, VMS 3",DelproCliente,
+,Parto,08/10/2025,Normal; 7446,DelproCliente,ANGUS
+,Cambio ID Transponder,19/09/2025, -> 982000464364424,,
+,Diagnósticos/Tratamiento,19/09/2025,"Dns: VITAMINA; Loc.: DD; Trat: VIGANTOL (A,D,E); Med: ",User1,
+,Diagnósticos/Tratamiento,19/09/2025,Dns: VACUNA; Loc.: DD; Trat: starvacc; Med: STARVAC 1 d 1X2ml Intramuscular,User1,
+,Diagnósticos/Tratamiento,19/09/2025,Dns: BOLO RUMENSIN; Loc.: DD; Trat: BOLO RUMENSIN; Med: BOLO RUMENSIN 1 d 1X1pcs,User1,003243
+,Condición corporal,19/09/2025,Condición corporal: 3.00 - DDUP: 0,User1,
+,Cambio de grupo,19/09/2025,"100, SECAS -> 20, RETO",User1,
+,Cambio de grupo,01/08/2025,"106, BECERRAS/NOVILLAS -> 100, SECAS",User1,
+,Control de Gestación,31/07/2025,+,User1,CARGADA DE 210
+,Invitación Visita Veterinaria,05/06/2025,"05/06/2025, Reconfirmacion 2 (150-160 dias)",DR  RAFA (Veterinario),
+,Control de Gestación,03/04/2025,+,User1,
+,Invitación Visita Veterinaria,03/04/2025,"03/04/2025, Reconfirmacion 1 (90-110 dias)",DR  RAFA (Veterinario),
+,Control de Gestación,06/02/2025,+,User1,CARGADA DE 35
+,Inseminación,02/01/2025,"Effective Insemination 
+Artificial Insemination; fertility/ANGUS; 2406261; Unknown Brand; Matías",Matías,
+,Celo,02/01/2025,Se deja montar,Matías,
+,Inseminación,24/11/2024,Artificial Insemination; HOCANM13636755; OVERPASS; Unknown Brand; Matías,Matías,
+,Celo,24/11/2024,Monta en otras,Matías,
+,Diagnósticos/Tratamiento,21/11/2024,Dns: Protocolo sincronizacion; Loc.: DD; Trat: RETIRO DEL CIDR; Med: ,User1,+GNRH
+,Diagnósticos/Tratamiento,14/11/2024,Dns: Quiste derecho; Loc.: DD; Trat: CIDR; Med: ,User1,
+,Control de Gestación,14/11/2024,-,User1,VACIA DE 34 POST. INSEM
+,Inseminación,11/10/2024,Artificial Insemination; 8403203292278; GRANADA; Unknown Brand; Roma,Roma,de calor tur
+,Celo,11/10/2024,Herd Navigator,Roma,
+,Inseminación,21/09/2024,Artificial Insemination; 71631; AsoJAY; Unknown Brand; Matías,Matías,
+,Celo,21/09/2024,Se deja montar,Matías,
+,Inseminación,01/09/2024,Artificial Insemination; 8403203292278; GRANADA; Unknown Brand; Matías,Matías,
+,Celo,01/09/2024,Monta en otras,Matías,
+,Diagnósticos/Tratamiento,29/08/2024,Dns: PG; Loc.: DD; Trat: ; Med: ,User1,
+,Diagnósticos/Tratamiento,22/08/2024,Dns: Vacia; Loc.: DD; Trat: GNRH OVS; Med: ,User1,
+,Control de Gestación,22/08/2024,-,User1,vacia de 38 post. insem
+,Inseminación,15/07/2024,Artificial Insemination; 8403214541122; HAYK; Unknown Brand; Matías,Matías,
+,Celo,15/07/2024,Se deja montar,Matías,
+,Diagnósticos/Tratamiento,02/07/2024,Dns: VACUNA; Loc.: DD; Trat: BOVILIS Vista 5 L5 SQ; Med: ,DelproCliente,
+,Entrada,15/06/2023,Nacimiento,DelproCliente,

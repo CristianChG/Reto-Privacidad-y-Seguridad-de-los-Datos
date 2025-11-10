@@ -1,0 +1,126 @@
+Evento,Tipo de evento,Fecha del evento,Descripción,Usuario,Comentario
+,Cambio de grupo,06/10/2025,"2, VMS 2 -> 3, VMS 3",User1,
+,Diagnósticos/Tratamiento,17/09/2025,Dns: Mastitis clínica; Loc.: DD; Trat: CEFAVET; Med: CEFAVET 1 d 1X10ml,User1,
+,Control de Gestación,11/09/2025,+,User1,CARGADA DE 157
+,Control de Gestación,10/07/2025,+,User1,CARGADA DE 94
+,Invitación Visita Veterinaria,10/07/2025,"10/07/2025, Reconfirmacion 1 (90-110 dias)",DR  RAFA (Veterinario),
+,Control de Gestación,22/05/2025,+,User1,CARGADA DE 45
+,Invitación Visita Veterinaria,22/05/2025,"22/05/2025, Diagnostico de Gestacion (>40 dias insem)",DR  RAFA (Veterinario),
+,Inseminación,07/04/2025,"Effective Insemination 
+Artificial Insemination; 8403151003682; TAOS-ET; Unknown Brand; Roma",Roma,DE CALOM-L TUR
+,Celo,07/04/2025,Herd Navigator,Roma,
+,Inseminación,07/03/2025,Artificial Insemination; HOCANM12857690; PURSUIT; Unknown Brand; Roma,Roma,ML TUR
+,Celo,07/03/2025,Herd Navigator,Roma,
+,Diagnósticos/Tratamiento,06/03/2025,Dns: Vacia; Loc.: DD; Trat: ; Med: ,User1,ECP
+,Control de Gestación,06/03/2025,-,User1,VACIA DE 43
+,Inseminación,22/01/2025,Artificial Insemination; 8403203292278; GRANADA; Unknown Brand; Roma,Roma,ML TUR
+,Celo,22/01/2025,Herd Navigator,Roma,
+,Celo,04/01/2025,Herd Navigator,User1,"EN CELO, 66 DIAS EN LECHE, NO LE TOCA"
+,Cambio tabla alimentación,30/12/2024,Multiparas-DEL -> Multiparas-ProduccionLeche,Admin,
+,Diagnósticos/Tratamiento,21/11/2024,Dns: ALTA; Loc.: DD; Trat: ; Med: ,User1,
+,Invitación Visita Veterinaria,21/11/2024,"21/11/2024, Vacas frescas",DR  RAFA (Veterinario),
+,Invitación Visita Veterinaria,14/11/2024,"14/11/2024, Vacas frescas",DR  RAFA (Veterinario),
+,Invitación Visita Veterinaria,07/11/2024,"07/11/2024, Vacas frescas",DR  RAFA (Veterinario),
+,Cambio de grupo,04/11/2024,"3, VMS 3 -> 2, VMS 2",User1,
+,Cambio tabla alimentación,31/10/2024,None -> Multiparas-DEL,Admin,
+,Cambio de grupo,30/10/2024,"20, RETO -> 3, VMS 3",User1,
+,Parto,30/10/2024,Normal; 107,User1,
+,Condición corporal,18/10/2024,Condición corporal: 3.50 - DDUP: 404,User1,
+,Cambio de grupo,18/10/2024,"100, SECAS -> 20, RETO",User1,
+,Diagnósticos/Tratamiento,18/10/2024,Dns: BOLO RUMENSIN; Loc.: DD; Trat: BOLO RUMENSIN; Med: BOLO RUMENSIN 1 d 1X1pcs,User1,007451
+,Diagnósticos/Tratamiento,18/10/2024,"Dns: VITAMINA; Loc.: DD; Trat: VIGANTOL (A,D,E); Med: ",User1,
+,Diagnósticos/Tratamiento,18/10/2024,Dns: VACUNA; Loc.: DD; Trat: starvacc; Med: STARVAC 1 d 1X2ml Intramuscular,User1,
+,Cambio tabla alimentación,01/08/2024,Multiparas-ProduccionLeche -> ,DelproCliente,
+,Diagnósticos/Tratamiento,01/08/2024,Dns: VACUNA; Loc.: DD; Trat: starvacc; Med: STARVAC 1 d 1X2ml Intramuscular,DelproCliente,
+,Diagnósticos/Tratamiento,01/08/2024,Dns: VACUNA; Loc.: DD; Trat: ROTAVEC; Med: ,DelproCliente,
+,Condición corporal,01/08/2024,Condición corporal: 3.50 - DDUP: 326,DelproCliente,
+,Cambio de grupo,01/08/2024,"3, VMS 3 -> 100, SECAS",DelproCliente,
+,Secado,01/08/2024,Dry Off,DelproCliente,"SE SECO CON 326 DEL; 188 DCC, 34.78 LITROS, QUEDO GESTANTE EN LA 3 INSEM"
+,Cambio de grupo,11/07/2024,"2, VMS 2 -> 3, VMS 3",User1,
+,Control de Gestación,27/06/2024,+,User1,
+,Invitación Visita Veterinaria,27/06/2024,Reconfirmacion 2 (150-160 dias),DR  RAFA (Veterinario),
+,Control de Gestación,25/04/2024,+,User1,
+,Invitación Visita Veterinaria,25/04/2024,Reconfirmacion 1 (90-110 dias),DR  RAFA (Veterinario),
+,Control de Gestación,14/03/2024,+,User1,
+,Invitación Visita Veterinaria,07/03/2024,Diagnostico de Gestacion (>40 dias insem),DR  RAFA (Veterinario),
+,Inseminación,26/01/2024,"Effective Insemination 
+Artificial Insemination; 8403207410750; ROMELU-ET; Unknown Brand; Roma",Roma,DE CALOR  TURGENTE
+,Celo,26/01/2024,Herd Navigator,Roma,
+,Inseminación,05/01/2024,Artificial Insemination; 2205241; MULTI BREED ; Unknown Brand; Roma,Roma,ml tur
+,Celo,05/01/2024,Herd Navigator,Roma,
+,Diagnósticos/Tratamiento,28/12/2023,Dns: Vacia; Loc.: DD; Trat: PG2; Med: ,User1,
+,Control de Gestación,28/12/2023,-,User1,VACIA 34 POST. INS
+,Inseminación,24/11/2023,Artificial Insemination; HO8403215568705; MONRAKER; Unknown Brand; Alfredo,Alfredo,poco tur
+,Celo,24/11/2023,Herd Navigator,Alfredo,
+,Cambio tabla alimentación,10/11/2023,Multiparas-DEL -> Multiparas-ProduccionLeche,Admin,
+,Invitación Visita Veterinaria,26/10/2023,Vacas frescas,DR  RAFA (Veterinario),
+,Cambio de grupo,19/10/2023,"3, VMS 3 -> 2, VMS 2",DelproCliente,
+,Invitación Visita Veterinaria,19/10/2023,Vacas frescas,DR  RAFA (Veterinario),
+,Invitación Visita Veterinaria,12/10/2023,Vacas frescas,DR  RAFA (Veterinario),
+,Invitación Visita Veterinaria,05/10/2023,Vacas frescas,DR  RAFA (Veterinario),
+,Invitación Visita Veterinaria,28/09/2023,Vacas frescas,DR  RAFA (Veterinario),
+,Invitación Visita Veterinaria,21/09/2023,Vacas frescas,DR  RAFA (Veterinario),
+,Invitación Visita Veterinaria,14/09/2023,Vacas frescas,DR  RAFA (Veterinario),
+,Cambio tabla alimentación,12/09/2023,None -> Multiparas-DEL,Admin,
+,Cambio de grupo,11/09/2023,"20, RETO -> 3, VMS 3",DelproCliente,
+,Parto,10/09/2023,Normal; 8699,DelproCliente,
+,Cambio de grupo,21/08/2023,"100, SECAS -> 20, RETO",User1,
+,Condición corporal,19/08/2023,Condición corporal: 3.25 - DDUP: 359,User1,
+,Diagnósticos/Tratamiento,19/08/2023,Dns: VACUNA; Loc.: DD; Trat: starvacc; Med: STARVAC 1 d 1X2ml Intramuscular,User1,
+,Diagnósticos/Tratamiento,19/08/2023,Dns: BOLO RUMENSIN; Loc.: DD; Trat: BOLO RUMENSIN; Med: BOLO RUMENSIN 1 d 1X1pcs,User1,005333
+,Cambio tabla alimentación,15/07/2023,Multiparas-ProduccionLeche -> ,DelproCliente,
+,Cambio de grupo,15/07/2023,"3, VMS 3 -> 100, SECAS",DelproCliente,
+,Secado,14/07/2023,Dry Off,DelproCliente,SE SECO CON 224 DCC; Y 323 DEL; Y 29.10 LITROS
+,Condición corporal,14/07/2023,Condición corporal: 3.50 - DDUP: 323,DelproCliente,
+,Diagnósticos/Tratamiento,14/07/2023,Dns: VACUNA; Loc.: DD; Trat: ROTAVEC; Med: ,DelproCliente,
+,Diagnósticos/Tratamiento,14/07/2023,Dns: Secar; Loc.: DD; Trat: CEFA SAFE; Med: CEFA SAFE 1 d 1X4pcs,DelproCliente,
+,Diagnósticos/Tratamiento,14/07/2023,Dns: VACUNA; Loc.: DD; Trat: starvacc; Med: STARVAC 1 d 1X2ml Intramuscular,DelproCliente,
+,Control de Gestación,13/07/2023,+,DelproCliente,
+,Invitación Visita Veterinaria,13/07/2023,Vacas a secar,DR  RAFA (Veterinario),
+,Invitación Visita Veterinaria,12/07/2023,Vacas a secar,DR  RAFA (Veterinario),
+,Invitación Visita Veterinaria,06/07/2023,Vacas a secar,DR  RAFA (Veterinario),
+,Cambio de grupo,02/06/2023,"2, VMS 2 -> 3, VMS 3",DelproCliente,
+,Control de Gestación,05/05/2023,+,DelproCliente,
+,Invitación Visita Veterinaria,04/05/2023,Reconfirmacion 2 (150-160 dias),DR  RAFA (Veterinario),
+,Control de Gestación,09/03/2023,+,DelproCliente,
+,Invitación Visita Veterinaria,09/03/2023,Reconfirmacion 1 (90-110 dias),DR  RAFA (Veterinario),
+,Control de Gestación,12/01/2023,+,DelproCliente,
+,Invitación Visita Veterinaria,12/01/2023,Diagnostico de Gestacion (>40 dias insem),DR  RAFA (Veterinario),
+,Inseminación,03/12/2022,"Effective Insemination 
+Artificial Insemination; 8403202985632; MAGELLAN; Unknown Brand; Roma",Roma,
+,Celo,03/12/2022,Herd Navigator,Roma,
+,Cambio ID Transponder,14/11/2022,999000000000181 -> 982000464364507,,
+,Inseminación,10/11/2022,Artificial Insemination; 840003200824710; ALTAFARUT; Unknown Brand; Roma,Roma,
+,Celo,10/11/2022,Herd Navigator,Roma,
+,Diagnósticos/Tratamiento,31/10/2022,Dns: ; Loc.: DD; Trat: GNRH revision; Med: ,DelproCliente,
+,Celo,30/10/2022,Herd Navigator,DelproCliente,NO LETOCA
+,Cambio tabla alimentación,25/10/2022,Multiparas-DEL -> Multiparas-ProduccionLeche,Admin,
+,Diagnósticos/Tratamiento,20/10/2022,Dns: ; Loc.: (-); Trat: PG3 revision; Med: LUTALYSE 1 d 1X5ml Intramuscular,DelproCliente,
+,Celo,14/10/2022,Herd Navigator,DelproCliente,NO LETOCA
+,Diagnósticos/Tratamiento,06/10/2022,Dns: ; Loc.: (-); Trat: PG2 revision; Med: LUTALYSE 1 d 1X5ml Intramuscular,DelproCliente,
+,Cambio tabla alimentación,24/09/2022,None -> Multiparas-DEL,DelproCliente,
+,Cambio tabla alimentación,21/09/2022,Multiparas-DEL -> ,DelproCliente,
+,Cambio de grupo,21/09/2022,"3, VMS 3 -> 2, VMS 2",DelproCliente,
+,Cambio tabla alimentación,26/08/2022,None -> Multiparas-DEL,Admin,
+,Cambio ID Transponder,25/08/2022, -> 999000000000181,,
+,Cambio de grupo,25/08/2022,"100, SECAS -> 3, VMS 3",DelproCliente,
+,Parto,25/08/2022,Normal; 1226,DelproCliente,
+,Condición corporal,25/06/2022,Condición corporal: 3.00 - DDUP: 340,User1,
+,Cambio de grupo,24/06/2022,"102, ESTABLO INICIAL -> 100, SECAS",User1,
+,Secado,23/06/2022,Dry Off,User1,
+,Invitación Visita Veterinaria,13/06/2022,Comprobación antes de secado,Dra Guadalupe (Veterinario),
+,Control de Gestación,19/05/2022,+,User1,
+,Control de Gestación,21/04/2022,+,User1,
+,Cambio de grupo,13/03/2022," -> 102, ESTABLO INICIAL",User1,
+,Control de Gestación,24/02/2022,+,User1,
+,Control de Gestación,21/01/2022,+,User1,
+,Inseminación,21/11/2021,"Effective Insemination 
+Artificial Insemination; 8403129016236; ROCKETFIRE; Unknown Brand; Alfredo",User1,
+,Celo,21/11/2021,Otros,User1,
+,Cambio de grupo,27/07/2021, -> ,User1,
+,Parto,20/07/2021,Normal; 2081,Jorge,
+,Control de Gestación,31/12/2020,+,DR  RAFA (Veterinario),
+,Inseminación,20/10/2020,"Effective Insemination 
+Artificial Insemination; 8403145055197; SPEEDY; Unknown Brand; Matías",Matías,
+,Celo,20/10/2020,Herd Navigator,Matías,
+,Entrada,04/09/2019,Nacimiento,User1,

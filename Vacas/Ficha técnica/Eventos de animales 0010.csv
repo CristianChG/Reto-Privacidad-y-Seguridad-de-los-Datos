@@ -1,0 +1,27 @@
+Evento,Tipo de evento,Fecha del evento,Descripción,Usuario,Comentario
+,Invitación Visita Veterinaria,18/10/2025,"18/10/2025, Vacas frescas",DR  RAFA (Veterinario),
+,Cambio tabla alimentación,11/10/2025,None -> primerizas-DEL,Admin,
+,Cambio de grupo,10/10/2025,"20, RETO -> 3, VMS 3",DelproCliente,
+,Parto,08/10/2025,Normal; 7447,DelproCliente,ANGUS
+,Cambio ID Transponder,19/09/2025, -> 982000458994304,,
+,Condición corporal,19/09/2025,Condición corporal: 3.25 - DDUP: 0,User1,
+,Cambio de grupo,19/09/2025,"100, SECAS -> 20, RETO",User1,
+,Diagnósticos/Tratamiento,19/09/2025,"Dns: VITAMINA; Loc.: DD; Trat: VIGANTOL (A,D,E); Med: ",User1,
+,Diagnósticos/Tratamiento,19/09/2025,Dns: VACUNA; Loc.: DD; Trat: starvacc; Med: STARVAC 1 d 1X2ml Intramuscular,User1,
+,Diagnósticos/Tratamiento,19/09/2025,Dns: BOLO RUMENSIN; Loc.: DD; Trat: BOLO RUMENSIN; Med: BOLO RUMENSIN 1 d 1X1pcs,User1,008235
+,Cambio de grupo,01/08/2025,"106, BECERRAS/NOVILLAS -> 100, SECAS",User1,
+,Control de Gestación,31/07/2025,+,User1,CARGADA DE 207 
+,Invitación Visita Veterinaria,05/06/2025,"05/06/2025, Reconfirmacion 2 (150-160 dias)",DR  RAFA (Veterinario),
+,Control de Gestación,10/04/2025,+,User1,CARGA DE 85
+,Invitación Visita Veterinaria,10/04/2025,"10/04/2025, Reconfirmacion 1 (90-110 dias)",DR  RAFA (Veterinario),
+,Control de Gestación,13/02/2025,+,User1,CARGADA DE 39
+,Inseminación,05/01/2025,"Effective Insemination 
+Artificial Insemination; fertility/ANGUS; 2406261; Unknown Brand; Matías",Matías,
+,Celo,05/01/2025,Se deja montar,Matías,
+,Diagnósticos/Tratamiento,17/12/2024,Dns: VACUNA; Loc.: DD; Trat: BOVILIS Vista 5 L5 SQ; Med: ,DelproCliente,
+,Inseminación,30/11/2024,Artificial Insemination; 8403214324447; OVER-THE-THOP; Unknown Brand; Matías,Matías,
+,Celo,30/11/2024,Se deja montar,Matías,
+,Diagnósticos/Tratamiento,28/11/2024,Dns: Presynch; Loc.: DD; Trat: PG X1; Med: LUTALYSE 1 d 1X5ml Intramuscular,User1,
+,Invitación Visita Veterinaria,28/11/2024,"28/11/2024, PG1 Becerras (edad en dias 400-407)",DR  RAFA (Veterinario),
+,Invitación Visita Veterinaria,21/11/2024,"21/11/2024, PG1 Becerras (edad en dias 400-407)",DR  RAFA (Veterinario),
+,Entrada,18/10/2023,Nacimiento,DelproCliente,

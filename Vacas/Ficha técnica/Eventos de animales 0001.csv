@@ -1,0 +1,68 @@
+Evento,Tipo de evento,Fecha del evento,Descripción,Usuario,Comentario
+,Invitación Visita Veterinaria,18/10/2025,"18/10/2025, Vacas frescas",DR  RAFA (Veterinario),
+,Parto,15/10/2025,Normal,User1,hembra pinta
+,Cambio de grupo,03/10/2025,"100, SECAS -> 20, RETO",User1,
+,Diagnósticos/Tratamiento,03/10/2025,Dns: VACUNA; Loc.: DD; Trat: starvacc; Med: STARVAC 1 d 1X2ml Intramuscular,User1,
+,Diagnósticos/Tratamiento,03/10/2025,"Dns: VITAMINA; Loc.: DD; Trat: VIGANTOL (A,D,E); Med: ",User1,
+,Diagnósticos/Tratamiento,03/10/2025,Dns: BOLO RUMENSIN; Loc.: DD; Trat: BOLO RUMENSIN; Med: BOLO RUMENSIN 1 d 1X1pcs,User1,003191
+,Cambio tabla alimentación,23/06/2025,Primerizas-ProduccionLeche -> ,User1,
+,Diagnósticos/Tratamiento,23/06/2025,Dns: Secado por baja; Loc.: DD; Trat: CEFA SAFE; Med: CEFA SAFE 1 d 1X4pcs,User1,SE SECO POR BAJA PRODUCCION
+,Secado,23/06/2025,Dry Off,User1,"SE SECO CON 294 DEL, 19.85 LITROS. 155 DCC, QUEDO GESTANTE EN LA 2 INSEM"
+,Cambio de grupo,23/06/2025,"3, VMS 3 -> 100, SECAS",User1,
+,Control de Gestación,19/06/2025,+,User1,CARGADA DE 151
+,Invitación Visita Veterinaria,19/06/2025,"19/06/2025, Reconfirmacion 2 (150-160 dias)",DR  RAFA (Veterinario),
+,Cambio de grupo,16/06/2025,"1, VMS 1 -> 3, VMS 3",User1,
+,Control de Gestación,24/04/2025,+,User1,CARGADA DE 95
+,Invitación Visita Veterinaria,24/04/2025,"24/04/2025, Reconfirmacion 1 (90-110 dias)",DR  RAFA (Veterinario),
+,Control de Gestación,06/03/2025,+,User1,CARGADA DE 46
+,Inseminación,19/01/2025,"Effective Insemination 
+Artificial Insemination; 8403214324421; HIGH OOHM; Unknown Brand; Roma",Roma,
+,Celo,19/01/2025,Se deja montar,Roma,
+,Diagnósticos/Tratamiento,09/01/2025,Dns: Protocolo sincronizacion; Loc.: DD; Trat: PG2; Med: ,User1,
+,Diagnósticos/Tratamiento,02/01/2025,Dns: Vacia; Loc.: DD; Trat: GNRH OVS; Med: ,User1,
+,Control de Gestación,02/01/2025,-,User1,VACIA DE 35 POST. INSEM
+,Cambio tabla alimentación,22/12/2024,primerizas-DEL -> Primerizas-ProduccionLeche,Admin,
+,Inseminación,28/11/2024,Artificial Insemination; 8403207410750; ROMELU-ET; Unknown Brand; Matías,Matías,
+,Celo,28/11/2024,Se deja montar,Matías,
+,Invitación Visita Veterinaria,17/10/2024,"17/10/2024, Vacas frescas",DR  RAFA (Veterinario),
+,Invitación Visita Veterinaria,10/10/2024,"10/10/2024, Vacas frescas",DR  RAFA (Veterinario),
+,Invitación Visita Veterinaria,03/10/2024,"03/10/2024, Vacas frescas",DR  RAFA (Veterinario),
+,Invitación Visita Veterinaria,26/09/2024,"26/09/2024, Vacas frescas",DR  RAFA (Veterinario),
+,Invitación Visita Veterinaria,19/09/2024,"19/09/2024, Vacas frescas",DR  RAFA (Veterinario),
+,Invitación Visita Veterinaria,12/09/2024,Vacas frescas,DR  RAFA (Veterinario),
+,Cambio de grupo,09/09/2024,"3, VMS 3 -> 1, VMS 1",User1,
+,Cambio tabla alimentación,03/09/2024,None -> primerizas-DEL,Admin,
+,Cambio de grupo,02/09/2024,"20, RETO -> 3, VMS 3",Roma,
+,Parto,02/09/2024,Normal; 91597,Roma,herbra Angus
+,Cambio ID Transponder,20/08/2024, -> 982000464364634,,
+,Condición corporal,20/08/2024,Condición corporal: 4.00 - DDUP: 0,DelproCliente,
+,Cambio de grupo,20/08/2024,"100, SECAS -> 20, RETO",DelproCliente,
+,Diagnósticos/Tratamiento,20/08/2024,Dns: BOLO RUMENSIN; Loc.: DD; Trat: BOLO RUMENSIN; Med: BOLO RUMENSIN 1 d 1X1pcs,DelproCliente,005958
+,Diagnósticos/Tratamiento,20/08/2024,"Dns: VITAMINA; Loc.: DD; Trat: VIGANTOL (A,D,E); Med: ",DelproCliente,
+,Diagnósticos/Tratamiento,20/08/2024,Dns: VACUNA; Loc.: DD; Trat: starvacc; Med: STARVAC 1 d 1X2ml Intramuscular,DelproCliente,
+,Cambio de grupo,13/06/2024,"106, BECERRAS/NOVILLAS -> 100, SECAS",User1,
+,Diagnósticos/Tratamiento,13/06/2024,Dns: VACUNA; Loc.: DD; Trat: starvacc; Med: STARVAC 1 d 1X2ml Intramuscular,User1,
+,Diagnósticos/Tratamiento,13/06/2024,Dns: VACUNA; Loc.: DD; Trat: ROTAVEC; Med: ,User1,
+,Control de Gestación,07/03/2024,+,User1,
+,Invitación Visita Veterinaria,07/03/2024,Reconfirmacion 1 (90-110 dias),DR  RAFA (Veterinario),
+,Control de Gestación,11/01/2024,+,User1,
+,Invitación Visita Veterinaria,11/01/2024,Diagnostico de Gestacion (>40 dias insem),DR  RAFA (Veterinario),
+,Peso,06/12/2023,372 kg,DelproCliente,Talla: 136 cm
+,Inseminación,02/12/2023,"Effective Insemination 
+Artificial Insemination; 18759682; CHECK; Unknown Brand; Matías",Matías,
+,Celo,02/12/2023,Se deja montar,Matías,
+,Control de Gestación,23/11/2023,-,User1,vacia de 45 post.-ins se le puso cidr
+,Invitación Visita Veterinaria,22/11/2023,Diagnostico de Gestacion (>40 dias insem),DR  RAFA (Veterinario),
+,Inseminación,08/10/2023,Artificial Insemination; 18759682; CHECK; Unknown Brand; Matías,Matías,
+,Celo,08/10/2023,Se deja montar,Matías,
+,Invitación Visita Veterinaria,05/10/2023,Diagnostico de Gestacion (>40 dias insem),DR  RAFA (Veterinario),
+,Diagnósticos/Tratamiento,27/09/2023,Dns: ; Loc.: DD; Trat: GNRH revision; Med: LIBERACTIVE 1 d 1X2ml Intramuscular,DelproCliente,
+,Peso,06/09/2023,306 kg,DelproCliente,ALTURA DE 131.2 CM A LA GRUPA
+,Invitación Visita Veterinaria,31/08/2023,PG1 Becerras (edad en dias 400-407),DR  RAFA (Veterinario),
+,Inseminación,23/08/2023,Artificial Insemination; 8403824809684; CUMULUS; Unknown Brand; Matías,Matías,
+,Celo,23/08/2023,Se deja montar,Matías,
+,Diagnósticos/Tratamiento,17/08/2023,Dns: Presynch; Loc.: DD; Trat: PG X1; Med: LUTALYSE 1 d 1X5ml Intramuscular,DelproCliente,
+,Invitación Visita Veterinaria,17/08/2023,"PG1 Becerras (edad en dias 400-407), Available for Vet Visit earliest 31/08/2023",DR  RAFA (Veterinario),
+,Peso,27/09/2022,61 kg,DelproCliente,ALTURA 88.7
+,Diagnósticos/Tratamiento,27/09/2022,Dns: VACUNA; Loc.: DD; Trat: ONE-SHOT; Med: ,DelproCliente,
+,Entrada,07/07/2022,Nacimiento,User1,

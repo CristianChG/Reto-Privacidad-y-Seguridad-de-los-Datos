@@ -1,0 +1,26 @@
+Evento,Tipo de evento,Fecha del evento,Descripción,Usuario,Comentario
+,Invitación Visita Veterinaria,18/10/2025,"18/10/2025, Vacas frescas",DR  RAFA (Veterinario),
+,Invitación Visita Veterinaria,09/10/2025,"09/10/2025, Vacas frescas",DR  RAFA (Veterinario),
+,Cambio tabla alimentación,08/10/2025,None -> primerizas-DEL,Admin,
+,Cambio de grupo,07/10/2025,"20, RETO -> 3, VMS 3",User1,
+,Parto,07/10/2025,Normal; 97341,User1,
+,Cambio ID Transponder,19/09/2025, -> 982000464364626,,
+,Condición corporal,19/09/2025,Condición corporal: 3.25 - DDUP: 0,User1,
+,Cambio de grupo,19/09/2025,"100, SECAS -> 20, RETO",User1,
+,Diagnósticos/Tratamiento,19/09/2025,"Dns: VITAMINA; Loc.: DD; Trat: VIGANTOL (A,D,E); Med: ",User1,
+,Diagnósticos/Tratamiento,19/09/2025,Dns: VACUNA; Loc.: DD; Trat: starvacc; Med: STARVAC 1 d 1X2ml Intramuscular,User1,
+,Diagnósticos/Tratamiento,19/09/2025,Dns: BOLO RUMENSIN; Loc.: DD; Trat: BOLO RUMENSIN; Med: BOLO RUMENSIN 1 d 1X1pcs,User1,008234
+,Cambio de grupo,01/08/2025,"106, BECERRAS/NOVILLAS -> 100, SECAS",User1,
+,Control de Gestación,31/07/2025,+,User1,CARGADA DE 208
+,Invitación Visita Veterinaria,05/06/2025,"05/06/2025, Reconfirmacion 2 (150-160 dias)",DR  RAFA (Veterinario),
+,Control de Gestación,10/04/2025,+,User1,CARGADA DE 96
+,Invitación Visita Veterinaria,10/04/2025,"10/04/2025, Reconfirmacion 1 (90-110 dias)",DR  RAFA (Veterinario),
+,Control de Gestación,13/02/2025,+,User1,CARGADA DE 40
+,Invitación Visita Veterinaria,13/02/2025,"13/02/2025, Diagnostico de Gestacion (>40 dias insem)",DR  RAFA (Veterinario),
+,Inseminación,04/01/2025,"Effective Insemination 
+Artificial Insemination; 8403214541122; HAYK; Unknown Brand; Matías",Matías,
+,Celo,04/01/2025,Se deja montar,Matías,
+,Celo,19/12/2024,Se deja montar,Matías,NO LE TOCA
+,Diagnósticos/Tratamiento,02/07/2024,Dns: VACUNA; Loc.: DD; Trat: BOVILIS Vista 5 L5 SQ; Med: ,DelproCliente,
+,Cambio de grupo,07/11/2023,"3, VMS 3 -> 106, BECERRAS/NOVILLAS",DelproCliente,
+,Entrada,07/11/2023,Nacimiento,DelproCliente,Padre... ESQUIRE 

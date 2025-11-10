@@ -1,0 +1,23 @@
+Evento,Tipo de evento,Fecha del evento,Descripción,Usuario,Comentario
+,Invitación Visita Veterinaria,18/10/2025,"18/10/2025, Vacas frescas",DR  RAFA (Veterinario),
+,Cambio tabla alimentación,12/10/2025,None -> primerizas-DEL,Admin,
+,Cambio de grupo,11/10/2025,"20, RETO -> 3, VMS 3",DelproCliente,
+,Parto,11/10/2025,Normal,DelproCliente,hembra ho
+,Cambio ID Transponder,03/10/2025, -> 982000457888211,,
+,Cambio de grupo,03/10/2025,"100, SECAS -> 20, RETO",User1,
+,Diagnósticos/Tratamiento,03/10/2025,"Dns: VITAMINA; Loc.: DD; Trat: VIGANTOL (A,D,E); Med: ",User1,
+,Diagnósticos/Tratamiento,03/10/2025,Dns: BOLO RUMENSIN; Loc.: DD; Trat: BOLO RUMENSIN; Med: BOLO RUMENSIN 1 d 1X1pcs,User1,003187
+,Diagnósticos/Tratamiento,03/10/2025,Dns: VACUNA; Loc.: DD; Trat: starvacc; Med: STARVAC 1 d 1X2ml Intramuscular,User1,
+,Cambio de grupo,01/08/2025,"106, BECERRAS/NOVILLAS -> 100, SECAS",User1,
+,Control de Gestación,31/07/2025,+,User1,CARGADA DE 203
+,Control de Gestación,10/04/2025,+,User1,CARGADA DE 91
+,Invitación Visita Veterinaria,10/04/2025,"10/04/2025, Reconfirmacion 1 (90-110 dias)",DR  RAFA (Veterinario),
+,Control de Gestación,20/02/2025,+,User1,CARGADA DE 42
+,Invitación Visita Veterinaria,20/02/2025,"20/02/2025, Diagnostico de Gestacion (>40 dias insem)",DR  RAFA (Veterinario),
+,Inseminación,09/01/2025,"Effective Insemination 
+Artificial Insemination; 8403214541122; HAYK; Unknown Brand; Matías",Matías,
+,Celo,09/01/2025,Se deja montar,Matías,
+,Inseminación,19/12/2024,Artificial Insemination; 8403214324447; OVER-THE-THOP; Unknown Brand; Matías,Matías,
+,Celo,19/12/2024,Se deja montar,Matías,
+,Diagnósticos/Tratamiento,17/12/2024,Dns: VACUNA; Loc.: DD; Trat: BOVILIS Vista 5 L5 SQ; Med: ,DelproCliente,
+,Entrada,28/10/2023,Nacimiento,User1,

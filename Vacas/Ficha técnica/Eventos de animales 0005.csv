@@ -1,0 +1,77 @@
+Evento,Tipo de evento,Fecha del evento,Descripción,Usuario,Comentario
+,Control de Gestación,02/10/2025,+,User1,CARGADA DE 47
+,Invitación Visita Veterinaria,02/10/2025,"02/10/2025, Diagnostico de Gestacion (>40 dias insem)",DR  RAFA (Veterinario),
+,Invitación Visita Veterinaria,25/09/2025,"25/09/2025, Diagnostico de Gestacion (>40 dias insem)",DR  RAFA (Veterinario),
+,Inseminación,16/08/2025,"Effective Insemination 
+Artificial Insemination; 840M3267428513; BEYONO [NO SEXADO]; Unknown Brand; Roma",Roma,de calo ml tur
+,Celo,16/08/2025,Herd Navigator,Roma,
+,Cambio de grupo,30/07/2025,"2, VMS 2 -> 3, VMS 3",User1,
+,Inseminación,26/07/2025,Artificial Insemination; 8403151003682; TAOS-ET; Unknown Brand; Roma,Roma,no tur
+,Celo,26/07/2025,Herd Navigator,Roma,
+,Diagnósticos/Tratamiento,24/07/2025,Dns: Protocolo sincronizacion; Loc.: DD; Trat: RETIRO DEL CIDR; Med: ,User1,
+,Diagnósticos/Tratamiento,17/07/2025,Dns: Vacia; Loc.: DD; Trat: CIDR; Med: ,User1,
+,Control de Gestación,17/07/2025,-,User1,vacia de 36 post. insem
+,Inseminación,11/06/2025,Artificial Insemination; 2406261; FETILITY; Unknown Brand; Roma,Roma,ml  poco tur
+,Celo,11/06/2025,Herd Navigator,Roma,
+,Inseminación,23/05/2025,Artificial Insemination; 8403151003682; TAOS-ET; Unknown Brand; Roma,Roma,DE CALOR 
+,Celo,23/05/2025,Otros,Roma,
+,Inseminación,04/05/2025,Artificial Insemination; HO8403245812149; HAVENFUN-RED; Unknown Brand; Jose Zapatero,Jose Zapatero,NO RUR
+,Inseminación,04/05/2025,Artificial Insemination; HO8403245812149; HAVENFUN-RED; Unknown Brand; Roma,Roma,FUE  DE CIDR
+,Celo,04/05/2025,Otros,Roma,
+,Diagnósticos/Tratamiento,01/05/2025,Dns: Protocolo sincronizacion; Loc.: DD; Trat: RETIRO DEL CIDR; Med: ,User1,
+,Diagnósticos/Tratamiento,24/04/2025,Dns: Protocolo sincronizacion; Loc.: DD; Trat: CIDR; Med: ,User1,
+,Control de Gestación,24/04/2025,-,User1,VACIA DE 34 POST. INSEM
+,Inseminación,21/03/2025,Artificial Insemination; 8403213816034; REWAED-RED-ET; Unknown Brand; Roma,Roma,ML  TUR ES DE LAS  REWRD RED  ROGA
+,Celo,21/03/2025,Herd Navigator,Roma,
+,Control de Gestación,13/03/2025,-,User1,VACIA DE 34 POST. INSEM
+,Cambio de grupo,10/02/2025,"3, VMS 3 -> 2, VMS 2",User1,
+,Inseminación,07/02/2025,Artificial Insemination; 8403214324421; HIGH OOHM; Unknown Brand; Roma,Roma,ML TUR  
+,Celo,07/02/2025,Herd Navigator,Roma,
+,Diagnósticos/Tratamiento,04/02/2025,Dns: Vacia; Loc.: DD; Trat: PG2; Med: ,User1,
+,Control de Gestación,30/01/2025,-,User1,vacia de 34 
+,Inseminación,27/12/2024,Artificial Insemination; 8403214541122; HAYK; Unknown Brand; Roma,Roma,ML TUR SEXADO
+,Celo,27/12/2024,Herd Navigator,Roma,
+,Diagnósticos/Tratamiento,19/12/2024,Dns: Vacia; Loc.: DD; Trat: PG2; Med: ,User1,
+,Control de Gestación,19/12/2024,-,User1,VACIA 
+,Cambio tabla alimentación,16/12/2024,primerizas-DEL -> Primerizas-ProduccionLeche,Admin,
+,Inseminación,11/11/2024,Artificial Insemination; 8403203292278; GRANADA; Unknown Brand; MVZ. GUADALUPE LOPEZ,MVZ. GUADALUPE LOPEZ,"ES DE CALOR. UTERO TURGENTE, MOCO CRISTALINO "
+,Celo,11/11/2024,Se deja montar,MVZ. GUADALUPE LOPEZ,
+,Celo,22/10/2024,Se deja montar,User1,no le toca
+,Invitación Visita Veterinaria,10/10/2024,"10/10/2024, Vacas frescas",DR  RAFA (Veterinario),
+,Invitación Visita Veterinaria,03/10/2024,"03/10/2024, Vacas frescas",DR  RAFA (Veterinario),
+,Celo,29/09/2024,Herd Navigator,User1,NO LE TOCA
+,Invitación Visita Veterinaria,26/09/2024,"26/09/2024, Vacas frescas",DR  RAFA (Veterinario),
+,Invitación Visita Veterinaria,19/09/2024,"19/09/2024, Vacas frescas",DR  RAFA (Veterinario),
+,Invitación Visita Veterinaria,12/09/2024,Vacas frescas,DR  RAFA (Veterinario),
+,Invitación Visita Veterinaria,29/08/2024,Vacas frescas,DR  RAFA (Veterinario),
+,Cambio tabla alimentación,28/08/2024,None -> primerizas-DEL,Admin,
+,Cambio de grupo,27/08/2024,"20, RETO -> 3, VMS 3",User1,
+,Parto,27/08/2024,Normal; 91586,User1,
+,Cambio ID Transponder,20/08/2024, -> 982000464364484,,
+,Condición corporal,20/08/2024,Condición corporal: 3.75 - DDUP: 0,DelproCliente,
+,Cambio de grupo,20/08/2024,"100, SECAS -> 20, RETO",DelproCliente,
+,Diagnósticos/Tratamiento,20/08/2024,Dns: VACUNA; Loc.: DD; Trat: starvacc; Med: STARVAC 1 d 1X2ml Intramuscular,DelproCliente,
+,Diagnósticos/Tratamiento,20/08/2024,"Dns: VITAMINA; Loc.: DD; Trat: VIGANTOL (A,D,E); Med: ",DelproCliente,
+,Cambio de grupo,28/06/2024,"106, BECERRAS/NOVILLAS -> 100, SECAS",User1,
+,Diagnósticos/Tratamiento,28/06/2024,"Dns: VITAMINA; Loc.: DD; Trat: VIGANTOL (A,D,E); Med: ",User1,
+,Diagnósticos/Tratamiento,28/06/2024,Dns: VACUNA; Loc.: DD; Trat: ROTAVEC; Med: ,User1,
+,Diagnósticos/Tratamiento,28/06/2024,Dns: VACUNA; Loc.: DD; Trat: starvacc; Med: STARVAC 1 d 1X2ml Intramuscular,User1,
+,Control de Gestación,27/06/2024,+,User1,
+,Control de Gestación,29/02/2024,+,User1,
+,Invitación Visita Veterinaria,29/02/2024,Reconfirmacion 1 (90-110 dias),DR  RAFA (Veterinario),
+,Control de Gestación,04/01/2024,+,User1,CARGADA DE 35 POST.INS
+,Peso,06/12/2023,412 kg,DelproCliente,Talla: 145.1 cm
+,Inseminación,30/11/2023,"Effective Insemination 
+Artificial Insemination; HO8403215568705; MONRAKER; Unknown Brand; Matías",Matías,
+,Celo,30/11/2023,Se deja montar,Matías,
+,Inseminación,11/11/2023,Artificial Insemination; 8403142490309; LIONEL; Sexed; Unknown Brand; Roma,Roma,"TUR ,ML"
+,Celo,11/11/2023,Herd Navigator,Roma,
+,Inseminación,28/10/2023,Artificial Insemination; 8403224809684; CUMULUS; Unknown Brand; Matías,Matías,
+,Celo,28/10/2023,Se deja montar,Matías,
+,Invitación Visita Veterinaria,26/10/2023,PG1 Becerras (edad en dias 400-407),DR  RAFA (Veterinario),
+,Peso,06/09/2023,324 kg,DelproCliente,ALTURA DE 139.2 CM A LA GRUPA
+,Celo,02/09/2023,Se deja montar,Matías,NO LE TOCA
+,Celo,29/08/2023,Se deja montar,Matías,NO LE TOCA
+,Celo,14/08/2023,Se deja montar,Matías,NO LE TOCA
+,Celo,25/07/2023,Se deja montar,Matías,NO LE TOCA
+,Entrada,15/09/2022,Nacimiento,DelproCliente,

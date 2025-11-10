@@ -1,0 +1,56 @@
+Evento,Tipo de evento,Fecha del evento,Descripción,Usuario,Comentario
+,Cambio de grupo,20/10/2025,"2, VMS 2 -> 3, VMS 3",User1,
+,Control de Gestación,28/08/2025,+,User1,CARGADA DE 150
+,Invitación Visita Veterinaria,28/08/2025,"28/08/2025, Reconfirmacion 2 (150-160 dias)",DR  RAFA (Veterinario),
+,Control de Gestación,03/07/2025,+,User1,CARGADA DE 94
+,Invitación Visita Veterinaria,03/07/2025,"03/07/2025, Reconfirmacion 1 (90-110 dias)",DR  RAFA (Veterinario),
+,Cambio tabla alimentación,17/05/2025,primerizas-DEL -> Primerizas-ProduccionLeche,Admin,
+,Control de Gestación,15/05/2025,+,User1,CARGADA DE 40
+,Invitación Visita Veterinaria,15/05/2025,"15/05/2025, Diagnostico de Gestacion (>40 dias insem)",DR  RAFA (Veterinario),
+,Inseminación,31/03/2025,"Effective Insemination 
+Artificial Insemination; 8403151003682; TAOS-ET; Unknown Brand; Roma",Roma,de calor ml
+,Celo,31/03/2025,Herd Navigator,Roma,
+,Cambio de grupo,05/03/2025,"3, VMS 3 -> 2, VMS 2",User1,
+,Diagnósticos/Tratamiento,13/02/2025,Dns: ALTA; Loc.: DD; Trat: ; Med: ,User1,
+,Diagnósticos/Tratamiento,06/02/2025,Dns: Limpiando; Loc.: DD; Trat: ; Med: ,User1,
+,Invitación Visita Veterinaria,06/02/2025,"06/02/2025, Vacas frescas",DR  RAFA (Veterinario),
+,Cambio ID Transponder,03/02/2025,982000458994317 -> 982000458994297,,
+,Invitación Visita Veterinaria,30/01/2025,"30/01/2025, Vacas frescas",DR  RAFA (Veterinario),
+,Cambio tabla alimentación,28/01/2025,None -> primerizas-DEL,Admin,
+,Cambio ID Transponder,27/01/2025,999000000000195 -> 982000458994317,,
+,Cambio de grupo,27/01/2025,"20, RETO -> 3, VMS 3",DelproCliente,
+,Parto,26/01/2025,Normal; 7504,DelproCliente,
+,Cambio ID Transponder,21/01/2025,000000000000195 -> 999000000000195,,
+,Cambio ID Transponder,30/12/2024, -> 000000000000195,,
+,Condición corporal,30/12/2024,Condición corporal: 4.00 - DDUP: 0,User1,
+,Cambio de grupo,30/12/2024,"100, SECAS -> 20, RETO",User1,
+,Diagnósticos/Tratamiento,30/12/2024,Dns: BOLO RUMENSIN; Loc.: DD; Trat: BOLO RUMENSIN; Med: BOLO RUMENSIN 1 d 1X1pcs,User1,008112
+,Diagnósticos/Tratamiento,30/12/2024,"Dns: VITAMINA; Loc.: DD; Trat: VIGANTOL (A,D,E); Med: ",User1,
+,Diagnósticos/Tratamiento,30/12/2024,Dns: VACUNA; Loc.: DD; Trat: starvacc; Med: STARVAC 1 d 1X2ml Intramuscular,User1,
+,Diagnósticos/Tratamiento,05/12/2024,Dns: Presynch; Loc.: DD; Trat: PG X1; Med: LUTALYSE 1 d 1X5ml Intramuscular,User1,
+,Cambio de grupo,12/11/2024,"106, BECERRAS/NOVILLAS -> 100, SECAS",User1,
+,Diagnósticos/Tratamiento,12/11/2024,Dns: VACUNA; Loc.: DD; Trat: ROTAVEC; Med: ,User1,
+,Control de Gestación,31/10/2024,+,User1,
+,Control de Gestación,26/09/2024,+,User1,
+,Invitación Visita Veterinaria,26/09/2024,"26/09/2024, Reconfirmacion 2 (150-160 dias)",DR  RAFA (Veterinario),
+,Control de Gestación,25/07/2024,+,User1,
+,Peso,19/06/2024,448 kg,User1,1.49 ALTURA
+,Control de Gestación,30/05/2024,+,User1,
+,Inseminación,23/04/2024,"Effective Insemination 
+Artificial Insemination; 8403142490309; LIONEL; Sexed; Unknown Brand; Matías",Matías,
+,Celo,23/04/2024,Se deja montar,Matías,
+,Inseminación,05/04/2024,Artificial Insemination; HO8403215568705; MONRAKER; Unknown Brand; Matías,Matías,
+,Inseminación,03/04/2024,Artificial Insemination; 840003219939835; EXCELLENCY; Unknown Brand; Roma,Roma,DE CALOR -TUR
+,Celo,03/04/2024,Se deja montar,Roma,
+,Inseminación,24/02/2024,Artificial Insemination; 8403142490309; LIONEL; Sexed; Unknown Brand; Roma,Roma,TUR DE CALOR
+,Celo,24/02/2024,Herd Navigator,Roma,
+,Inseminación,31/01/2024,Artificial Insemination; 8403214541122; HAYK; Unknown Brand; Matías,Matías,
+,Celo,31/01/2024,Se deja montar,Matías,
+,Inseminación,14/01/2024,Artificial Insemination; 8403207410750; ROMELU-ET; Unknown Brand; Matías,Matías,
+,Celo,14/01/2024,Se deja montar,Matías,
+,Invitación Visita Veterinaria,28/12/2023,PG1 Becerras (edad en dias 400-407),DR  RAFA (Veterinario),
+,Celo,19/12/2023,Se deja montar,Matías,NO LE TOCA
+,Peso,06/12/2023,330 kg,DelproCliente,Talla:132.5 cm
+,Celo,05/11/2023,Se deja montar,Matías,NO LE TOCA
+,Celo,18/10/2023,Se deja montar,Matías,NO LE TOCA
+,Entrada,21/11/2022,Nacimiento,DelproCliente,

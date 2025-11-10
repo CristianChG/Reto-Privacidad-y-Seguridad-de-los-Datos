@@ -1,0 +1,35 @@
+Evento,Tipo de evento,Fecha del evento,Descripción,Usuario,Comentario
+,Cambio de grupo,20/10/2025,"1, VMS 1 -> 3, VMS 3",User1,
+,Invitación Visita Veterinaria,09/10/2025,"09/10/2025, Vacas frescas",DR  RAFA (Veterinario),
+,Invitación Visita Veterinaria,02/10/2025,"02/10/2025, Vacas frescas",DR  RAFA (Veterinario),
+,Invitación Visita Veterinaria,25/09/2025,"25/09/2025, Vacas frescas",DR  RAFA (Veterinario),
+,Diagnósticos/Tratamiento,20/09/2025,Dns: Problema Podal; Loc.: DD; Trat: SEPTOTRYL; Med: SEPTOTRYL 5 d 1X1pcs,User1,
+,Invitación Visita Veterinaria,18/09/2025,"18/09/2025, Vacas frescas",DR  RAFA (Veterinario),
+,Cambio de grupo,11/09/2025,"3, VMS 3 -> 1, VMS 1",User1,
+,Invitación Visita Veterinaria,11/09/2025,"11/09/2025, Vacas frescas",DR  RAFA (Veterinario),
+,Condición corporal,03/09/2025,Condición corporal: 3.58 - DDUP: 7,Admin,BCS Camera
+,Cambio tabla alimentación,28/08/2025,None -> primerizas-DEL,Admin,
+,Invitación Visita Veterinaria,28/08/2025,"28/08/2025, Vacas frescas",DR  RAFA (Veterinario),
+,Cambio de grupo,27/08/2025,"20, RETO -> 3, VMS 3",User1,
+,Parto,27/08/2025,Normal; 7432,User1,PARIO A LOS 277
+,Cambio ID Transponder,01/08/2025, -> 982000458994415,,
+,Cambio de grupo,01/08/2025,"100, SECAS -> 20, RETO",User1,SE CAMBIO A LOS 251 DCC
+,Cambio de grupo,01/08/2025,"106, BECERRAS/NOVILLAS -> 100, SECAS",User1,
+,Diagnósticos/Tratamiento,01/08/2025,Dns: BOLO RUMENSIN; Loc.: DD; Trat: BOLO RUMENSIN; Med: BOLO RUMENSIN 1 d 1X1pcs,User1,"BOLO:006502
+COLLAR: DATARMARST"
+,Diagnósticos/Tratamiento,01/08/2025,Dns: VACUNA; Loc.: DD; Trat: starvacc; Med: STARVAC 1 d 1X2ml Intramuscular,User1,
+,Diagnósticos/Tratamiento,01/08/2025,"Dns: VITAMINA; Loc.: DD; Trat: VIGANTOL (A,D,E); Med: ",User1,
+,Control de Gestación,24/04/2025,+,DelproCliente,CARGADA DE 152
+,Invitación Visita Veterinaria,24/04/2025,"24/04/2025, Reconfirmacion 2 (150-160 dias)",DR  RAFA (Veterinario),
+,Control de Gestación,20/02/2025,+,User1,CARGADA DE 89
+,Control de Gestación,02/01/2025,+,User1,CARGADA DE 40
+,Invitación Visita Veterinaria,02/01/2025,"02/01/2025, Diagnostico de Gestacion (>40 dias insem)",DR  RAFA (Veterinario),
+,Inseminación,23/11/2024,"Effective Insemination 
+Artificial Insemination; 8403214324447; OVER-THE-THOP; Unknown Brand; Matías",Matías,
+,Celo,23/11/2024,Se deja montar,Matías,
+,Diagnósticos/Tratamiento,21/11/2024,Dns: Presynch; Loc.: DD; Trat: PG X1; Med: LUTALYSE 1 d 1X5ml Intramuscular,User1,
+,Invitación Visita Veterinaria,21/11/2024,"21/11/2024, PG1 Becerras (edad en dias 400-407)",DR  RAFA (Veterinario),
+,Celo,07/11/2024,Se deja montar,Matías,NO LE TOCA
+,Celo,12/09/2024,Se deja montar,Matías,NO LE TOCA
+,Diagnósticos/Tratamiento,02/07/2024,Dns: VACUNA; Loc.: DD; Trat: BOVILIS Vista 5 L5 SQ; Med: ,DelproCliente,
+,Entrada,16/10/2023,Nacimiento,DelproCliente,

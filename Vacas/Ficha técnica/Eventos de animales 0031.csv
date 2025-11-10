@@ -1,0 +1,58 @@
+Evento,Tipo de evento,Fecha del evento,Descripción,Usuario,Comentario
+,Invitación Visita Veterinaria,18/10/2025,"18/10/2025, Reconfirmacion 2 (150-160 dias)",DR  RAFA (Veterinario),
+,Condición corporal,09/10/2025,Condición corporal: 3.78 - DDUP: 300,Admin,BCS Camera
+,Cambio de grupo,06/10/2025,"2, VMS 2 -> 3, VMS 3",User1,
+,Control de Gestación,14/08/2025,+,User1,CARGADA DE 87
+,Control de Gestación,03/07/2025,+,User1,CARGADA DE 45
+,Invitación Visita Veterinaria,03/07/2025,"03/07/2025, Diagnostico de Gestacion (>40 dias insem)",DR  RAFA (Veterinario),
+,Cambio ID Transponder,27/05/2025,982000464364511 -> 982000464364602,,
+,Inseminación,19/05/2025,"Effective Insemination 
+Artificial Insemination; 8403151003682; TAOS-ET; Unknown Brand; Roma",Roma,de calor ml
+,Inseminación,19/05/2025,Artificial Insemination; 8403151003682; TAOS-ET; Unknown Brand; Roma,Roma,de calor  ml tur
+,Celo,19/05/2025,Herd Navigator,Roma,
+,Inseminación,02/05/2025,Artificial Insemination; 8403214541122; HAYK; Unknown Brand; Roma,Roma,PROTOCOLO OVSYNCH
+,Celo,02/05/2025,Otros,Roma,
+,Diagnósticos/Tratamiento,24/04/2025,Dns: Vacia; Loc.: DD; Trat: PG2; Med: ,User1,
+,Control de Gestación,24/04/2025,-,User1,VACIA DE 50 POST. INSEM
+,Invitación Visita Veterinaria,24/04/2025,"24/04/2025, Diagnostico de Gestacion (>40 dias insem)",DR  RAFA (Veterinario),
+,Invitación Visita Veterinaria,17/04/2025,"17/04/2025, Diagnostico de Gestacion (>40 dias insem)",DR  RAFA (Veterinario),
+,Cambio tabla alimentación,03/04/2025,primerizas-DEL -> Primerizas-ProduccionLeche,Admin,
+,Inseminación,05/03/2025,Artificial Insemination; 8403214324421; HIGH OOHM; Unknown Brand; Roma,Roma,TUR ML
+,Celo,05/03/2025,Herd Navigator,Roma,
+,Invitación Visita Veterinaria,30/01/2025,"30/01/2025, Vacas frescas",DR  RAFA (Veterinario),
+,Invitación Visita Veterinaria,23/01/2025,"23/01/2025, Vacas frescas",DR  RAFA (Veterinario),
+,Invitación Visita Veterinaria,09/01/2025,"09/01/2025, Vacas frescas",DR  RAFA (Veterinario),
+,Cambio de grupo,07/01/2025,"3, VMS 3 -> 2, VMS 2",User1,
+,Invitación Visita Veterinaria,02/01/2025,"02/01/2025, Vacas frescas",DR  RAFA (Veterinario),
+,Invitación Visita Veterinaria,19/12/2024,"19/12/2024, Vacas frescas",DR  RAFA (Veterinario),
+,Cambio tabla alimentación,14/12/2024,None -> primerizas-DEL,Admin,
+,Cambio de grupo,13/12/2024,"20, RETO -> 3, VMS 3",User1,
+,Parto,13/12/2024,Normal; 7365,User1,
+,Cambio ID Transponder,25/11/2024, -> 982000464364511,,
+,Condición corporal,25/11/2024,Condición corporal: 4.00 - DDUP: 0,User1,
+,Cambio de grupo,25/11/2024,"100, SECAS -> 20, RETO",User1,
+,Diagnósticos/Tratamiento,25/11/2024,Dns: BOLO RUMENSIN; Loc.: DD; Trat: BOLO RUMENSIN; Med: BOLO RUMENSIN 1 d 1X1pcs,User1,005528
+,Diagnósticos/Tratamiento,25/11/2024,"Dns: VITAMINA; Loc.: DD; Trat: VIGANTOL (A,D,E); Med: ",User1,
+,Diagnósticos/Tratamiento,25/11/2024,Dns: VACUNA; Loc.: DD; Trat: starvacc; Med: STARVAC 1 d 1X2ml Intramuscular,User1,
+,Cambio de grupo,17/10/2024,"106, BECERRAS/NOVILLAS -> 100, SECAS",User1,
+,Diagnósticos/Tratamiento,17/10/2024,Dns: VACUNA; Loc.: DD; Trat: ROTAVEC; Med: ,User1,
+,Diagnósticos/Tratamiento,17/10/2024,Dns: VACUNA; Loc.: DD; Trat: starvacc; Med: STARVAC 1 d 1X2ml Intramuscular,User1,
+,Control de Gestación,15/08/2024,+,User1,GESTANTE DE 155
+,Invitación Visita Veterinaria,27/06/2024,Reconfirmacion 1 (90-110 dias),DR  RAFA (Veterinario),
+,Invitación Visita Veterinaria,20/06/2024,Reconfirmacion 1 (90-110 dias),DR  RAFA (Veterinario),
+,Control de Gestación,13/06/2024,+,User1,
+,Invitación Visita Veterinaria,13/06/2024,Reconfirmacion 1 (90-110 dias),DR  RAFA (Veterinario),
+,Control de Gestación,25/04/2024,+,User1,
+,Invitación Visita Veterinaria,25/04/2024,Diagnostico de Gestacion (>40 dias insem),DR  RAFA (Veterinario),
+,Inseminación,13/03/2024,"Effective Insemination 
+Artificial Insemination; 8403214541122; HAYK; Unknown Brand; Roma",Roma,CALOR NATURAL
+,Celo,13/03/2024,Se deja montar,Roma,
+,Inseminación,22/02/2024,Artificial Insemination; 2205241; MULTI BREED ; Unknown Brand; Matías,Matías,
+,Celo,22/02/2024,Se deja montar,Matías,
+,Inseminación,04/02/2024,Artificial Insemination; 8403214541122; HAYK; Unknown Brand; Matías,Matías,
+,Celo,04/02/2024,Se deja montar,Matías,
+,Invitación Visita Veterinaria,14/12/2023,PG1 Becerras (edad en dias 400-407),DR  RAFA (Veterinario),
+,Peso,06/12/2023,342 kg,DelproCliente,Talla: 140 cm
+,Celo,16/11/2023,Se deja montar,Matías,NO LE TOCA
+,Celo,23/10/2023,Se deja montar,Matías,NO LE TOCA
+,Entrada,07/11/2022,Nacimiento,User1,

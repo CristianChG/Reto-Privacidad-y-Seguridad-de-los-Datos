@@ -1,0 +1,58 @@
+Evento,Tipo de evento,Fecha del evento,Descripción,Usuario,Comentario
+,Cambio de grupo,06/10/2025,"1, VMS 1 -> 3, VMS 3",User1,
+,Control de Gestación,11/09/2025,+,User1,CARGADA DE 158
+,Cambio ID Transponder,14/08/2025,982000464364480 -> 982000464364413,,
+,Control de Gestación,10/07/2025,+,User1,CARGADA DE 95 
+,Invitación Visita Veterinaria,10/07/2025,"10/07/2025, Reconfirmacion 1 (90-110 dias)",DR  RAFA (Veterinario),
+,Control de Gestación,22/05/2025,+,User1,CARGADA D 46
+,Invitación Visita Veterinaria,22/05/2025,"22/05/2025, Diagnostico de Gestacion (>40 dias insem)",DR  RAFA (Veterinario),
+,Cambio tabla alimentación,10/04/2025,None -> Primerizas-ProduccionLeche,Admin,
+,Cambio de grupo,09/04/2025,"102, ESTABLO INICIAL -> 1, VMS 1",User1,
+,Inseminación,06/04/2025,"Effective Insemination 
+Artificial Insemination; 8403151003682; TAOS-ET; Unknown Brand; Jose Zapatero",Jose Zapatero,poco tur gente
+,Celo,06/04/2025,Herd Navigator,Jose Zapatero,
+,Diagnósticos/Tratamiento,27/03/2025,Dns: Vacia; Loc.: DD; Trat: PG2; Med: ,User1,
+,Control de Gestación,27/03/2025,-,User1,VACIA DE 40 POST. INSEM
+,Invitación Visita Veterinaria,27/03/2025,"27/03/2025, Diagnostico de Gestacion (>40 dias insem)",DR  RAFA (Veterinario),
+,Cambio tabla alimentación,16/03/2025,Primerizas-ProduccionLeche -> ,User1,
+,Cambio de grupo,16/03/2025,"3, VMS 3 -> 102, ESTABLO INICIAL",Jose Luis,
+,Cambio tabla alimentación,14/03/2025,primerizas-DEL -> Primerizas-ProduccionLeche,Admin,
+,Cambio tabla alimentación,06/03/2025,None -> primerizas-DEL,Admin,
+,Cambio de grupo,05/03/2025,"102, ESTABLO INICIAL -> 3, VMS 3",User1,
+,Inseminación,15/02/2025,Artificial Insemination; 8403207410750; ROMELU-ET; Unknown Brand; Roma,Roma,ML SEXADO
+,Celo,15/02/2025,Herd Navigator,Roma,
+,Cambio tabla alimentación,15/01/2025,primerizas-DEL -> ,User1,
+,Cambio de grupo,15/01/2025,"3, VMS 3 -> 102, ESTABLO INICIAL",User1,MUY FLACA
+,Cambio ID Transponder,13/01/2025,982000464364582 -> 982000464364480,,
+,Cambio tabla alimentación,09/01/2025,None -> primerizas-DEL,Admin,
+,Invitación Visita Veterinaria,09/01/2025,"09/01/2025, Vacas frescas",DR  RAFA (Veterinario),
+,Cambio de grupo,08/01/2025,"102, ESTABLO INICIAL -> 3, VMS 3",User1,
+,Invitación Visita Veterinaria,02/01/2025,"02/01/2025, Vacas frescas",DR  RAFA (Veterinario),
+,Invitación Visita Veterinaria,19/12/2024,"19/12/2024, Vacas frescas",DR  RAFA (Veterinario),
+,Cambio tabla alimentación,09/12/2024,primerizas-DEL -> ,User1,
+,Cambio de grupo,09/12/2024,"3, VMS 3 -> 102, ESTABLO INICIAL",User1,VACA DE METRITIS
+,Invitación Visita Veterinaria,28/11/2024,"28/11/2024, Vacas frescas",DR  RAFA (Veterinario),
+,Cambio tabla alimentación,24/11/2024,None -> primerizas-DEL,Admin,
+,Cambio de grupo,23/11/2024,"20, RETO -> 3, VMS 3",User1,
+,Parto,23/11/2024,Normal; 7357,User1,
+,Cambio ID Transponder,30/10/2024, -> 982000464364582,,
+,Condición corporal,30/10/2024,Condición corporal: 3.50 - DDUP: 0,User1,
+,Cambio de grupo,30/10/2024,"100, SECAS -> 20, RETO",User1,
+,Diagnósticos/Tratamiento,30/10/2024,Dns: BOLO RUMENSIN; Loc.: DD; Trat: BOLO RUMENSIN; Med: BOLO RUMENSIN 1 d 1X1pcs,User1,007861
+,Diagnósticos/Tratamiento,30/10/2024,"Dns: VITAMINA; Loc.: DD; Trat: VIGANTOL (A,D,E); Med: ",User1,
+,Diagnósticos/Tratamiento,30/10/2024,Dns: VACUNA; Loc.: DD; Trat: starvacc; Med: STARVAC 1 d 1X2ml Intramuscular,User1,
+,Cambio de grupo,20/08/2024,"106, BECERRAS/NOVILLAS -> 100, SECAS",DelproCliente,
+,Diagnósticos/Tratamiento,20/08/2024,Dns: VACUNA; Loc.: DD; Trat: ROTAVEC; Med: ,DelproCliente,
+,Control de Gestación,15/08/2024,+,User1,GETSANTE DE 180
+,Control de Gestación,18/07/2024,+,User1,
+,Invitación Visita Veterinaria,18/07/2024,Reconfirmacion 2 (150-160 dias),DR  RAFA (Veterinario),
+,Control de Gestación,23/05/2024,+,User1,
+,Control de Gestación,28/03/2024,+,User1,
+,Invitación Visita Veterinaria,28/03/2024,Diagnostico de Gestacion (>40 dias insem),DR  RAFA (Veterinario),
+,Inseminación,17/02/2024,"Effective Insemination 
+Artificial Insemination; 8403142490309; LIONEL; Sexed; Unknown Brand; Roma",Roma,
+,Celo,17/02/2024,Se deja montar,Roma,
+,Invitación Visita Veterinaria,15/02/2024,PG1 Becerras (edad en dias 400-407),DR  RAFA (Veterinario),
+,Celo,27/01/2024,Se deja montar,Matías,NO LE TOCA
+,Celo,19/12/2023,Se deja montar,Matías,NO LE TOCA
+,Entrada,11/01/2023,Nacimiento,DelproCliente,

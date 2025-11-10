@@ -1,0 +1,139 @@
+Evento,Tipo de evento,Fecha del evento,Descripción,Usuario,Comentario
+,Invitación Visita Veterinaria,18/10/2025,"18/10/2025, Diagnostico de Gestacion (>40 dias insem)",DR  RAFA (Veterinario),
+,Cambio de grupo,11/09/2025,"1, VMS 1 -> 3, VMS 3",User1,
+,Inseminación,07/09/2025,Artificial Insemination; HO84m3212874372; COOKIECUTTER HOKYSMOKES; Unknown Brand; Roma,Roma,TUR CIDR
+,Celo,07/09/2025,Herd Navigator,Roma,
+,Diagnósticos/Tratamiento,28/08/2025,Dns: Vacia; Loc.: DD; Trat: CIDR; Med: ,User1,
+,Control de Gestación,28/08/2025,-,User1,VACIA DE 35 POST.INSEM
+,Inseminación,24/07/2025,Artificial Insemination; 8403151003682; TAOS-ET; Unknown Brand; Roma,Roma,de cidr  moco turbio
+,Celo,24/07/2025,Herd Navigator,Roma,
+,Diagnósticos/Tratamiento,14/07/2025,Dns: Protocolo sincronizacion; Loc.: DD; Trat: CIDR; Med: ,User1,
+,Control de Gestación,10/07/2025,-,User1,"VACIA OA, "
+,Invitación Visita Veterinaria,10/07/2025,"10/07/2025, Diagnostico de Gestacion (>40 dias insem)",DR  RAFA (Veterinario),
+,Diagnósticos/Tratamiento,03/07/2025,Dns: Vacia; Loc.: DD; Trat: ; Med: ,User1,
+,Invitación Visita Veterinaria,03/07/2025,"03/07/2025, Diagnostico de Gestacion (>40 dias insem)",DR  RAFA (Veterinario),
+,Inseminación,23/05/2025,Artificial Insemination; 8403151003682; TAOS-ET; Unknown Brand; Roma,Roma,PROTOCOLO RESYNCH
+,Celo,23/05/2025,Otros,Roma,
+,Diagnósticos/Tratamiento,15/05/2025,Dns: Vacia; Loc.: DD; Trat: PG2; Med: ,User1,
+,Control de Gestación,15/05/2025,-,User1,VACIA DE 36 POST INSEM
+,Diagnósticos/Tratamiento,09/05/2025,Dns: Mastitis clínica; Loc.: DD; Trat: EMICINA LIQUIDA; Med: EMICINA LIQUIDA 3 d 1X60ml,DelproCliente,
+,Diagnósticos/Tratamiento,05/05/2025,Dns: MASTITIS; Loc.: DI; Trat: RILEXINE; Med: RILEXINE 3 d 2X1pcs,Jose Luis,
+,Diagnósticos/Tratamiento,05/05/2025,Dns: MASTITIS; Loc.: DI; Trat: HIDROPEN X3; Med: HIDROPEN 3 d 1X30ml Intramuscular,Jose Luis,
+,Inseminación,09/04/2025,Artificial Insemination; 8403151003682; TAOS-ET; Unknown Brand; Roma,Roma,utero  tur
+,Celo,09/04/2025,Herd Navigator,Roma,
+,Cambio tabla alimentación,14/03/2025,Multiparas-DEL -> Multiparas-ProduccionLeche,Admin,
+,Cambio de grupo,12/03/2025,"2, VMS 2 -> 1, VMS 1",User1,CORRALEO POR PROYECTO CORRAL 2
+,Invitación Visita Veterinaria,20/02/2025,"20/02/2025, Vacas frescas",DR  RAFA (Veterinario),
+,Invitación Visita Veterinaria,13/02/2025,"13/02/2025, Vacas frescas",DR  RAFA (Veterinario),
+,Invitación Visita Veterinaria,06/02/2025,"06/02/2025, Vacas frescas",DR  RAFA (Veterinario),
+,Invitación Visita Veterinaria,30/01/2025,"30/01/2025, Vacas frescas",DR  RAFA (Veterinario),
+,Invitación Visita Veterinaria,23/01/2025,"23/01/2025, Vacas frescas",DR  RAFA (Veterinario),
+,Cambio de grupo,21/01/2025,"3, VMS 3 -> 2, VMS 2",User1,
+,Cambio tabla alimentación,14/01/2025,None -> Multiparas-DEL,Admin,
+,Cambio de grupo,13/01/2025,"20, RETO -> 3, VMS 3",DelproCliente,
+,Parto,12/01/2025,Normal; 7373,DelproCliente,
+,Condición corporal,30/12/2024,Condición corporal: 3.75 - DDUP: 412,User1,
+,Cambio de grupo,30/12/2024,"100, SECAS -> 20, RETO",User1,
+,Diagnósticos/Tratamiento,30/12/2024,Dns: BOLO RUMENSIN; Loc.: DD; Trat: BOLO RUMENSIN; Med: BOLO RUMENSIN 1 d 1X1pcs,User1,008114
+,Diagnósticos/Tratamiento,30/12/2024,"Dns: VITAMINA; Loc.: DD; Trat: VIGANTOL (A,D,E); Med: ",User1,
+,Diagnósticos/Tratamiento,30/12/2024,Dns: VACUNA; Loc.: DD; Trat: starvacc; Med: STARVAC 1 d 1X2ml Intramuscular,User1,
+,Cambio tabla alimentación,11/10/2024,Multiparas-ProduccionLeche -> ,User1,
+,Secado,11/10/2024,Dry Off,User1,"SE SECO CON 332 DEL, 20.34 LITROS, 181 DCC. QUEDO GESTNATE EN LA 3 INSEMINACION"
+,Cambio de grupo,11/10/2024,"3, VMS 3 -> 100, SECAS",User1,
+,Diagnósticos/Tratamiento,11/10/2024,Dns: VACUNA; Loc.: DD; Trat: ROTAVEC; Med: ,User1,
+,Diagnósticos/Tratamiento,11/10/2024,Dns: VACUNA; Loc.: DD; Trat: starvacc; Med: STARVAC 1 d 1X2ml Intramuscular,User1,
+,Cambio de grupo,30/09/2024,"1, VMS 1 -> 3, VMS 3",User1,
+,Control de Gestación,12/09/2024,+,DelproCliente,
+,Invitación Visita Veterinaria,12/09/2024,Reconfirmacion 2 (150-160 dias),DR  RAFA (Veterinario),
+,Cambio de grupo,11/07/2024,"2, VMS 2 -> 1, VMS 1",User1,
+,Control de Gestación,11/07/2024,+,User1,
+,Control de Gestación,30/05/2024,+,User1,
+,Invitación Visita Veterinaria,30/05/2024,Diagnostico de Gestacion (>40 dias insem),DR  RAFA (Veterinario),
+,Inseminación,13/04/2024,"Effective Insemination 
+Artificial Insemination; 840003224956190; BARBAZZA ALTA; Unknown Brand; Roma",Roma,DE CALOR POCO TUR
+,Celo,13/04/2024,Herd Navigator,Roma,
+,Inseminación,22/03/2024,Artificial Insemination; 8403141608169; BIG DOLLARS; Unknown Brand; Matías,Matías,
+,Celo,22/03/2024,Herd Navigator,Matías,
+,Diagnósticos/Tratamiento,14/03/2024,Dns: Vacia; Loc.: DD; Trat: PG2; Med: ,User1,
+,Control de Gestación,14/03/2024,-,User1,VACIA 34 POST. INS 
+,Inseminación,09/02/2024,Artificial Insemination; 8403141608169; BIG DOLLARS; Unknown Brand; MVZ. GUADALUPE LOPEZ,MVZ. GUADALUPE LOPEZ,
+,Celo,09/02/2024,Herd Navigator,MVZ. GUADALUPE LOPEZ,
+,Cambio tabla alimentación,14/01/2024,Multiparas-DEL -> Multiparas-ProduccionLeche,Admin,
+,Cambio de grupo,13/01/2024,"3, VMS 3 -> 2, VMS 2",User1,
+,Invitación Visita Veterinaria,28/12/2023,Vacas frescas,DR  RAFA (Veterinario),
+,Invitación Visita Veterinaria,21/12/2023,Vacas frescas,DR  RAFA (Veterinario),
+,Invitación Visita Veterinaria,14/12/2023,Vacas frescas,DR  RAFA (Veterinario),
+,Invitación Visita Veterinaria,07/12/2023,Vacas frescas,DR  RAFA (Veterinario),
+,Invitación Visita Veterinaria,30/11/2023,Vacas frescas,DR  RAFA (Veterinario),
+,Invitación Visita Veterinaria,22/11/2023,Vacas frescas,DR  RAFA (Veterinario),
+,Invitación Visita Veterinaria,16/11/2023,Vacas frescas,DR  RAFA (Veterinario),
+,Cambio tabla alimentación,15/11/2023,None -> Multiparas-DEL,Admin,
+,Cambio de grupo,14/11/2023,"20, RETO -> 3, VMS 3",User1,
+,Parto,14/11/2023,Normal; Nacida muerta - {5e9fd632-10e0-4ed9-b4b5-0420ca0e216e},User1,lo pario muerto
+,Condición corporal,03/11/2023,Condición corporal: 3.25 - DDUP: 350,DelproCliente,
+,Cambio de grupo,03/11/2023,"100, SECAS -> 20, RETO",DelproCliente,
+,Diagnósticos/Tratamiento,03/11/2023,Dns: BOLO RUMENSIN; Loc.: DD; Trat: BOLO RUMENSIN; Med: BOLO RUMENSIN 1 d 1X1pcs,DelproCliente,003136
+,Diagnósticos/Tratamiento,03/11/2023,Dns: VACUNA; Loc.: DD; Trat: starvacc; Med: STARVAC 1 d 1X2ml Intramuscular,DelproCliente,
+,Cambio tabla alimentación,01/09/2023,Primerizas-ProduccionLeche -> ,DelproCliente,
+,Condición corporal,01/09/2023,Condición corporal: 3.00 - DDUP: 287,DelproCliente,
+,Secado,01/09/2023,Dry Off,DelproCliente,SE SECO CON 194 DCC; 287 DEL; 21.25 DE PRODUCCION
+,Cambio de grupo,01/09/2023,"3, VMS 3 -> 100, SECAS",DelproCliente,
+,Diagnósticos/Tratamiento,01/09/2023,Dns: VACUNA; Loc.: DD; Trat: starvacc; Med: STARVAC 1 d 1X2ml Intramuscular,DelproCliente,
+,Diagnósticos/Tratamiento,01/09/2023,Dns: VACUNA; Loc.: DD; Trat: ROTAVEC; Med: ,DelproCliente,
+,Control de Gestación,31/08/2023,+,DelproCliente,
+,Diagnósticos/Tratamiento,21/08/2023,"Dns: Mastitis clínica; Loc.: DD; Trat: HIDROPEN+SPECTRAMAST; Med: HIDROPEN 3 d 1X30ml, SPECTRAMAST 3 d 1X10gm Intramamario",DelproCliente,cefavet
+,Diagnósticos/Tratamiento,15/08/2023,Dns: Mastitis clínica; Loc.: DD; Trat: ENROXIL; Med: ENROXIL 1 d 1X20ml,DelproCliente,
+,Diagnósticos/Tratamiento,01/08/2023,Dns: MASTITIS; Loc.: DD; Trat: HIDROPEN; Med: HIDROPEN 3 d 1X30ml,DelproCliente,CEFAVET
+,Control de Gestación,20/07/2023,+,DelproCliente,
+,Invitación Visita Veterinaria,20/07/2023,Reconfirmacion 2 (150-160 dias),DR  RAFA (Veterinario),
+,Diagnósticos/Tratamiento,13/07/2023,Dns: Mastitis clínica; Loc.: DD; Trat: HIDROPEN; Med: HIDROPEN 3 d 1X30ml,DelproCliente,
+,Cambio tabla alimentación,26/06/2023,None -> Primerizas-ProduccionLeche,Admin,
+,Cambio de grupo,24/06/2023,"102, ESTABLO INICIAL -> 3, VMS 3",DelproCliente,
+,Diagnósticos/Tratamiento,19/06/2023,"Dns: Mastitis clínica; Loc.: DD; Trat: GENTAVET+NAPZIN+MASTIJET; Med: NAPZIN 3 d 1X30ml, GENTAVET 3 d 1X30ml, MASTIJET 3 d 1X6pcs Intramamario",DelproCliente,
+,Cambio tabla alimentación,10/06/2023,Primerizas-ProduccionLeche -> ,DelproCliente,
+,Cambio de grupo,10/06/2023,"1, VMS 1 -> 102, ESTABLO INICIAL",DelproCliente,
+,Diagnósticos/Tratamiento,06/06/2023,"Dns: Mastitis clínica; Loc.: DD; Trat: HIDROPEN+SPECTRAMAST; Med: HIDROPEN 3 d 1X30ml, SPECTRAMAST 3 d 1X10gm Intramamario",DelproCliente,
+,Control de Gestación,25/05/2023,+,DelproCliente,
+,Invitación Visita Veterinaria,25/05/2023,Reconfirmacion 1 (90-110 dias),DR  RAFA (Veterinario),
+,Cambio de medidor de actividad,26/04/2023,0 -> 4145,,
+,Control de Gestación,30/03/2023,+,DelproCliente,
+,Cambio tabla alimentación,09/03/2023,primerizas-DEL -> Primerizas-ProduccionLeche,Admin,
+,Inseminación,19/02/2023,"Effective Insemination 
+Artificial Insemination; 3209481391; ESQUIRE; Unknown Brand; Roma",Roma,
+,Celo,19/02/2023,Herd Navigator,Roma,
+,Cambio de grupo,30/01/2023,"3, VMS 3 -> 1, VMS 1",User1,
+,Inseminación,27/01/2023,Artificial Insemination; 3224956190; Unknown Brand; UnknownBreeder,DelproCliente,
+,Celo,27/01/2023,Herd Navigator,DelproCliente,
+,Diagnósticos/Tratamiento,26/01/2023,Dns: GNRH; Loc.: DD; Trat: ; Med: ,User1,PRPTOCOLO ESTANCIAS
+,Diagnósticos/Tratamiento,24/01/2023,Dns: PG; Loc.: DD; Trat: ; Med: ,User1,"protocolo de estancias
+"
+,Diagnósticos/Tratamiento,17/01/2023,Dns: GNRH; Loc.: DD; Trat: ; Med: ,DelproCliente,Protocolo estancias
+,Diagnósticos/Tratamiento,10/01/2023,Dns: GNRH; Loc.: DD; Trat: ; Med: ,User1,Protocolo estancias
+,Diagnósticos/Tratamiento,07/01/2023,Dns: PG; Loc.: DD; Trat: ; Med: ,User1,Protocolo estancias
+,Diagnósticos/Tratamiento,31/12/2022,Dns: GNRH; Loc.: DD; Trat: ; Med: ,User1,Protocolo estancias
+,Invitación Visita Veterinaria,08/12/2022,Vacas frescas,DR  RAFA (Veterinario),
+,Diagnósticos/Tratamiento,24/11/2022,Dns: Limpiando; Loc.: DD; Trat: ; Med: ,User1,
+,Invitación Visita Veterinaria,23/11/2022,"Vacas frescas, Available for Vet Visit earliest 01/12/2022",DR  RAFA (Veterinario),
+,Cambio tabla alimentación,19/11/2022,None -> primerizas-DEL,Admin,
+,Cambio ID Transponder,18/11/2022, -> 982000464364473,,
+,Cambio de grupo,18/11/2022,"100, SECAS -> 3, VMS 3",DelproCliente,
+,Parto,18/11/2022,Normal; 8714,DelproCliente,
+,Cambio de grupo,27/09/2022,"19, Vaquillas Sep Solidos -> 100, SECAS",DelproCliente,
+,Diagnósticos/Tratamiento,27/09/2022,Dns: VACUNA; Loc.: DD; Trat: ROTAVEC; Med: ,DelproCliente,
+,Invitación Visita Veterinaria,28/07/2022,Reconfirmacion 1 (90-110 dias),DR  RAFA (Veterinario),
+,Control de Gestación,21/07/2022,+,Jorge,
+,Invitación Visita Veterinaria,21/07/2022,Reconfirmacion 2 (150-160 dias),DR  RAFA (Veterinario),
+,Cambio de grupo,20/06/2022,"11, Vaq Insem Mati -> 19, Vaquillas Sep Solidos",User1,
+,Cambio de grupo,14/06/2022,"106, BECERRAS/NOVILLAS -> 11, Vaq Insem Mati",User1,
+,Control de Gestación,02/06/2022,+,User1,
+,Invitación Visita Veterinaria,02/06/2022,Reconfirmacion 1 (90-110 dias),DR  RAFA (Veterinario),
+,Diagnósticos/Tratamiento,26/05/2022,Dns: ; Loc.: (-); Trat: ; Med: ,User1,FALTO HACER RECONFIRMACION
+,Invitación Visita Veterinaria,26/05/2022,"Reconfirmacion 1 (90-110 dias), Available for Vet Visit earliest 02/06/2022",DR  RAFA (Veterinario),
+,Diagnósticos/Tratamiento,24/05/2022,Dns: ; Loc.: (-); Trat: BOVISHIELD FP; Med: BOVISHIELD FP 1 d 1X2ml,User1,
+,Cambio de grupo,02/05/2022," -> 106, BECERRAS/NOVILLAS",User1,
+,Control de Gestación,07/04/2022,+,User1,
+,Cambio de grupo,13/03/2022, -> ,Rodrigo,
+,Inseminación,20/02/2022,"Effective Insemination 
+Artificial Insemination; 13227660; HAWTHORN; Unknown Brand; UnknownBreeder",User1,
+,Celo,20/02/2022,Herd Navigator,User1,
+,Entrada,02/12/2020,Nacimiento,User1,

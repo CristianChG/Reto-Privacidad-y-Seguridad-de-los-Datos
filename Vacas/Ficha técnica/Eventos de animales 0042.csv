@@ -1,0 +1,48 @@
+Evento,Tipo de evento,Fecha del evento,Descripción,Usuario,Comentario
+,Diagnósticos/Tratamiento,09/10/2025,Dns: Vacia; Loc.: DD; Trat: ; Med: ,User1,R7
+,Control de Gestación,09/10/2025,-,User1,vacia de 40 post. insem
+,Invitación Visita Veterinaria,09/10/2025,"09/10/2025, Diagnostico de Gestacion (>40 dias insem)",DR  RAFA (Veterinario),
+,Diagnósticos/Tratamiento,07/10/2025,Dns: Mastitis clínica; Loc.: DD; Trat: CEFAVET; Med: CEFAVET 1 d 1X10ml,User1,
+,Invitación Visita Veterinaria,02/10/2025,"02/10/2025, Diagnostico de Gestacion (>40 dias insem)",DR  RAFA (Veterinario),
+,Invitación Visita Veterinaria,25/09/2025,"25/09/2025, Diagnostico de Gestacion (>40 dias insem)",DR  RAFA (Veterinario),
+,Invitación Visita Veterinaria,18/09/2025,"18/09/2025, Diagnostico de Gestacion (>40 dias insem)",DR  RAFA (Veterinario),
+,Cambio tabla alimentación,08/09/2025,primerizas-DEL -> Primerizas-ProduccionLeche,Admin,
+,Celo,30/08/2025,Herd Navigator,DelproCliente,no se ins por quistes se aplico 5ml de GNRH
+,Cambio tabla alimentación,17/08/2025,None -> primerizas-DEL,Admin,
+,Cambio de grupo,16/08/2025,"102, ESTABLO INICIAL -> 3, VMS 3",DelproCliente,
+,Inseminación,07/08/2025,Artificial Insemination; HOCANM12857690; PURSUIT; Unknown Brand; Roma,Roma,NO TUR
+,Celo,07/08/2025,Herd Navigator,Roma,
+,Cambio tabla alimentación,02/08/2025,primerizas-DEL -> ,User1,
+,Cambio de grupo,02/08/2025,"3, VMS 3 -> 102, ESTABLO INICIAL",User1,
+,Cambio tabla alimentación,25/07/2025,None -> primerizas-DEL,Admin,
+,Cambio de grupo,24/07/2025,"102, ESTABLO INICIAL -> 3, VMS 3",User1,
+,Invitación Visita Veterinaria,03/07/2025,"03/07/2025, Vacas frescas",DR  RAFA (Veterinario),
+,Cambio tabla alimentación,28/06/2025,primerizas-DEL -> ,User1,
+,Cambio de grupo,28/06/2025,"3, VMS 3 -> 102, ESTABLO INICIAL",User1,
+,Invitación Visita Veterinaria,26/06/2025,"26/06/2025, Vacas frescas",DR  RAFA (Veterinario),
+,Invitación Visita Veterinaria,19/06/2025,"19/06/2025, Vacas frescas",DR  RAFA (Veterinario),
+,Invitación Visita Veterinaria,05/06/2025,"05/06/2025, Vacas frescas",DR  RAFA (Veterinario),
+,Invitación Visita Veterinaria,29/05/2025,"29/05/2025, Vacas frescas",DR  RAFA (Veterinario),
+,Invitación Visita Veterinaria,22/05/2025,"22/05/2025, Vacas frescas",DR  RAFA (Veterinario),
+,Cambio ID Transponder,21/05/2025,982000464364602 -> 982000464364590,,
+,Cambio tabla alimentación,21/05/2025,None -> primerizas-DEL,Admin,
+,Cambio ID Transponder,20/05/2025, -> 982000464364602,,
+,Cambio de grupo,20/05/2025,"100, SECAS -> 3, VMS 3",DelproCliente,
+,Parto,20/05/2025,Normal,DelproCliente,pario hembra
+,Cambio de grupo,04/03/2025,"106, BECERRAS/NOVILLAS -> 100, SECAS",User1,
+,Diagnósticos/Tratamiento,26/02/2025,Dns: VACUNA; Loc.: DD; Trat: ROTAVEC; Med: ,User1,
+,Diagnósticos/Tratamiento,26/02/2025,Dns: VACUNA; Loc.: DD; Trat: starvacc; Med: STARVAC 1 d 1X2ml Intramuscular,User1,
+,Control de Gestación,16/01/2025,+,User1,CARGADA DE 145 DCC
+,Control de Gestación,21/11/2024,+,User1,
+,Invitación Visita Veterinaria,21/11/2024,"21/11/2024, Reconfirmacion 1 (90-110 dias)",DR  RAFA (Veterinario),
+,Control de Gestación,26/09/2024,+,User1,
+,Inseminación,23/08/2024,"Effective Insemination 
+Artificial Insemination; 8403214541122; HAYK; Unknown Brand; Roma",Roma,de calor-ml .tur
+,Celo,23/08/2024,Herd Navigator,Roma,
+,Inseminación,03/08/2024,Artificial Insemination; 8403214541122; HAYK; Unknown Brand; Roma,Roma,DE CALOR ML TUR
+,Celo,03/08/2024,Herd Navigator,Roma,
+,Diagnósticos/Tratamiento,01/08/2024,Dns: Presynch; Loc.: DD; Trat: PG X1; Med: LUTALYSE 1 d 1X5ml Intramuscular,User1,
+,Diagnósticos/Tratamiento,18/07/2024,Dns: Presynch; Loc.: DD; Trat: PG X1; Med: LUTALYSE 1 d 1X5ml Intramuscular,User1,
+,Invitación Visita Veterinaria,18/07/2024,PG1 Becerras (edad en dias 400-407),DR  RAFA (Veterinario),
+,Diagnósticos/Tratamiento,02/07/2024,Dns: VACUNA; Loc.: DD; Trat: BOVILIS Vista 5 L5 SQ; Med: ,DelproCliente,
+,Entrada,12/06/2023,Nacimiento,DelproCliente,

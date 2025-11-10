@@ -1,0 +1,62 @@
+Evento,Tipo de evento,Fecha del evento,Descripción,Usuario,Comentario
+,Control de Gestación,09/10/2025,+,User1,CARGADA DE 96
+,Invitación Visita Veterinaria,09/10/2025,"09/10/2025, Reconfirmacion 1 (90-110 dias)",DR  RAFA (Veterinario),
+,Condición corporal,30/09/2025,Condición corporal: 4.01 - DDUP: 300,Admin,BCS Camera
+,Control de Gestación,22/08/2025,+,User1,CARGADA DE 47 POST. INSEM
+,Invitación Visita Veterinaria,21/08/2025,"21/08/2025, Diagnostico de Gestacion (>40 dias insem)",DR  RAFA (Veterinario),
+,Inseminación,05/07/2025,"Effective Insemination 
+Artificial Insemination; 8403207410750; ROMELU-ET; Unknown Brand; Roma",Roma,DE CALOR ML TUR --SEXADO
+,Celo,05/07/2025,Herd Navigator,Roma,
+,Cambio ID Transponder,03/07/2025,982000464364625 -> 982000464364610,,
+,Cambio de grupo,16/06/2025,"1, VMS 1 -> 3, VMS 3",User1,
+,Diagnósticos/Tratamiento,03/06/2025,Dns: Vacia; Loc.: DD; Trat: PG2; Med: ,User1,
+,Inseminación,01/06/2025,Artificial Insemination; HAYK HPP SELECTS; HO8403214541122; Unknown Brand; Roma,Roma,tur
+,Celo,01/06/2025,Herd Navigator,Roma,
+,Control de Gestación,29/05/2025,-,User1,vacia de 50 post. al prime diagnostico
+,Invitación Visita Veterinaria,29/05/2025,"29/05/2025, Diagnostico de Gestacion (>40 dias insem)",DR  RAFA (Veterinario),
+,Invitación Visita Veterinaria,22/05/2025,"22/05/2025, Diagnostico de Gestacion (>40 dias insem)",DR  RAFA (Veterinario),
+,Control de Gestación,15/05/2025,?,User1,DUDOSA DE 36/ R7
+,Inseminación,09/04/2025,Artificial Insemination; HAYK HPP SELECTS; HO8403214541122; Unknown Brand; Jose Zapatero,Jose Zapatero,decalor                                                                                                                                                                                                                                                     
+,Celo,09/04/2025,Herd Navigator,Jose Zapatero,
+,Control de Gestación,03/04/2025,-,User1,vacia de la reconfirmacion de 47 
+,Invitación Visita Veterinaria,03/04/2025,"03/04/2025, Diagnostico de Gestacion (>40 dias insem)",DR  RAFA (Veterinario),
+,Invitación Visita Veterinaria,27/03/2025,"27/03/2025, Diagnostico de Gestacion (>40 dias insem)",DR  RAFA (Veterinario),
+,Cambio tabla alimentación,25/03/2025,primerizas-DEL -> Primerizas-ProduccionLeche,Admin,
+,Inseminación,15/02/2025,Artificial Insemination; 8403214541122; HAYK; Unknown Brand; Roma,Roma,ML TUR
+,Celo,15/02/2025,Herd Navigator,Roma,
+,Cambio de grupo,10/02/2025,"3, VMS 3 -> 1, VMS 1",User1,
+,Invitación Visita Veterinaria,23/01/2025,"23/01/2025, Vacas frescas",DR  RAFA (Veterinario),
+,Cambio tabla alimentación,09/01/2025,None -> primerizas-DEL,Admin,
+,Invitación Visita Veterinaria,09/01/2025,"09/01/2025, Vacas frescas",DR  RAFA (Veterinario),
+,Cambio de grupo,08/01/2025,"102, ESTABLO INICIAL -> 3, VMS 3",User1,
+,Invitación Visita Veterinaria,02/01/2025,"02/01/2025, Vacas frescas",DR  RAFA (Veterinario),
+,Invitación Visita Veterinaria,19/12/2024,"19/12/2024, Vacas frescas",DR  RAFA (Veterinario),
+,Cambio tabla alimentación,09/12/2024,primerizas-DEL -> ,User1,
+,Cambio de grupo,09/12/2024,"3, VMS 3 -> 102, ESTABLO INICIAL",User1,VACA RE RETENCION PLACENTARIA 
+,Cambio tabla alimentación,05/12/2024,None -> primerizas-DEL,Admin,
+,Cambio ID Transponder,04/12/2024, -> 982000464364625,,
+,Cambio de grupo,04/12/2024,"100, SECAS -> 3, VMS 3",User1,
+,Parto,04/12/2024,Difícil; Nacida muerta - {aff09bf8-0b54-4dad-9802-fda48e9f1761},User1,PARIO DE 240 DIAS CON CRIA/ QUEDO GESTANTE EN LA 4 INSEMINACION/ PREMATURO
+,Cambio de grupo,17/10/2024,"106, BECERRAS/NOVILLAS -> 100, SECAS",User1,
+,Diagnósticos/Tratamiento,17/10/2024,Dns: VACUNA; Loc.: DD; Trat: ROTAVEC; Med: ,User1,
+,Diagnósticos/Tratamiento,17/10/2024,Dns: VACUNA; Loc.: DD; Trat: starvacc; Med: STARVAC 1 d 1X2ml Intramuscular,User1,
+,Control de Gestación,12/09/2024,+,DelproCliente,
+,Invitación Visita Veterinaria,12/09/2024,Reconfirmacion 2 (150-160 dias),DR  RAFA (Veterinario),
+,Control de Gestación,11/07/2024,+,User1,
+,Peso,19/06/2024,485 kg,User1,1.43 ALTURA
+,Control de Gestación,16/05/2024,+,User1,
+,Inseminación,08/04/2024,"Effective Insemination 
+Artificial Insemination; HO8403215568705; MONRAKER; Unknown Brand; Matías",Matías,
+,Celo,08/04/2024,Se deja montar,Matías,
+,Inseminación,24/03/2024,Artificial Insemination; 840003224956190; BARBAZZA ALTA; Unknown Brand; Matías,Matías,
+,Celo,24/03/2024,Se deja montar,Matías,
+,Diagnósticos/Tratamiento,14/03/2024,Dns: Vacia; Loc.: DD; Trat: GNRH OVS; Med: ,User1,
+,Control de Gestación,14/03/2024,-,User1,VACIA DE 40 POST. INS
+,Inseminación,03/02/2024,Artificial Insemination; 8403214541122; HAYK; Unknown Brand; Matías,Matías,
+,Celo,03/02/2024,Se deja montar,Matías,
+,Diagnósticos/Tratamiento,11/01/2024,Dns: GNRH; Loc.: DD; Trat: ; Med: ,User1,FOLICULKO OVARIPO IZQUIERDO 
+,Control de Gestación,11/01/2024,-,User1,VACIA DE 39 POST. INS. 
+,Peso,06/12/2023,364 kg,DelproCliente,Talla: 136.5 cm
+,Inseminación,03/12/2023,Artificial Insemination; 8403205704083; LEXUS; Unknown Brand; Matías,Matías,
+,Celo,03/12/2023,Se deja montar,Matías,
+,Entrada,14/11/2022,Nacimiento,DelproCliente,

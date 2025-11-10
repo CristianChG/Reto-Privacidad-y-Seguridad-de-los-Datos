@@ -1,0 +1,28 @@
+Evento,Tipo de evento,Fecha del evento,Descripción,Usuario,Comentario
+,Cambio tabla alimentación,23/09/2025,None -> primerizas-DEL,Admin,
+,Cambio de grupo,22/09/2025,"102, ESTABLO INICIAL -> 3, VMS 3",User1,
+,Invitación Visita Veterinaria,28/08/2025,"28/08/2025, Vacas frescas",DR  RAFA (Veterinario),
+,Cambio tabla alimentación,21/08/2025,primerizas-DEL -> ,User1,
+,Cambio de grupo,21/08/2025,"1, VMS 1 -> 102, ESTABLO INICIAL",User1,
+,Invitación Visita Veterinaria,21/08/2025,"21/08/2025, Vacas frescas",DR  RAFA (Veterinario),
+,Invitación Visita Veterinaria,07/08/2025,"07/08/2025, Vacas frescas",DR  RAFA (Veterinario),
+,Invitación Visita Veterinaria,31/07/2025,"31/07/2025, Vacas frescas",DR  RAFA (Veterinario),
+,Cambio de grupo,30/07/2025,"3, VMS 3 -> 1, VMS 1",User1,
+,Invitación Visita Veterinaria,24/07/2025,"24/07/2025, Vacas frescas",DR  RAFA (Veterinario),
+,Cambio tabla alimentación,19/07/2025,None -> primerizas-DEL,Admin,
+,Cambio ID Transponder,18/07/2025, -> 982000458994436,,
+,Cambio de grupo,18/07/2025,"106, BECERRAS/NOVILLAS -> 3, VMS 3",User1,
+,Parto,18/07/2025,Normal; 7418,User1,PARIO DE 270 
+,Diagnósticos/Tratamiento,30/06/2025,Dns: BOLO RUMENSIN; Loc.: DD; Trat: BOLO RUMENSIN; Med: BOLO RUMENSIN 1 d 1X1pcs,User1,000084
+,Control de Gestación,29/05/2025,+,User1,cargada de 220
+,Control de Gestación,20/03/2025,+,User1,CARGADA DE 150
+,Control de Gestación,16/01/2025,+,User1,CARGADA DE 87 POST INSEM
+,Control de Gestación,02/12/2024,+,User1,Cargada de 38 post insem
+,Inseminación,21/10/2024,"Effective Insemination 
+Artificial Insemination; 8403214541122; HAYK; Unknown Brand; Matías",Matías,
+,Celo,21/10/2024,Se deja montar,Matías,
+,Diagnósticos/Tratamiento,17/10/2024,Dns: Presynch; Loc.: DD; Trat: PG X1; Med: LUTALYSE 1 d 1X5ml Intramuscular,User1,
+,Invitación Visita Veterinaria,17/10/2024,"17/10/2024, PG1 Becerras (edad en dias 400-407)",DR  RAFA (Veterinario),
+,Invitación Visita Veterinaria,10/10/2024,"10/10/2024, PG1 Becerras (edad en dias 400-407)",DR  RAFA (Veterinario),
+,Diagnósticos/Tratamiento,02/07/2024,Dns: VACUNA; Loc.: DD; Trat: BOVILIS Vista 5 L5 SQ; Med: ,DelproCliente,
+,Entrada,06/09/2023,Nacimiento,DelproCliente,

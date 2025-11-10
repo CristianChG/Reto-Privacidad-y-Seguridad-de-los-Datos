@@ -1,0 +1,62 @@
+Evento,Tipo de evento,Fecha del evento,Descripción,Usuario,Comentario
+,Invitación Visita Veterinaria,18/10/2025,"18/10/2025, Diagnostico de Gestacion (>40 dias insem)",DR  RAFA (Veterinario),
+,Diagnósticos/Tratamiento,14/10/2025,Dns: ; Loc.: DD; Trat: NAPZIN; Med: ,User1,
+,Cambio tabla alimentación,03/10/2025,None -> Primerizas-ProduccionLeche,Admin,
+,Cambio de grupo,01/10/2025,"102, ESTABLO INICIAL -> 3, VMS 3",User1,
+,Diagnósticos/Tratamiento,10/09/2025,Dns: Mastitis clínica; Loc.: DD; Trat: EMICINA LIQUIDA; Med: EMICINA LIQUIDA 3 d 1X60ml,User1,
+,Inseminación,07/09/2025,Artificial Insemination; HOCANM12857690; PURSUIT; Unknown Brand; Roma,Roma,NO TUR
+,Celo,07/09/2025,Herd Navigator,Roma,
+,Cambio tabla alimentación,30/08/2025,Primerizas-ProduccionLeche -> ,User1,
+,Cambio de grupo,30/08/2025,"3, VMS 3 -> 102, ESTABLO INICIAL",User1,
+,Diagnósticos/Tratamiento,28/08/2025,Dns: Vacia; Loc.: DD; Trat: CIDR; Med: ,User1,
+,Control de Gestación,28/08/2025,-,User1,VACIA DE 35 POST. INSEM
+,Diagnósticos/Tratamiento,27/08/2025,Dns: MASTITIS; Loc.: DD; Trat: CEFAVET; Med: CEFAVET 1 d 1X10ml,Roma,
+,Diagnósticos/Tratamiento,27/08/2025,Dns: MASTITIS; Loc.: DD; Trat: HIDROPEN X3; Med: HIDROPEN 3 d 1X30ml Intramuscular,Roma,
+,Diagnósticos/Tratamiento,27/08/2025,Dns: MASTITIS; Loc.: DD; Trat: NAPZIN; Med: ,Roma,
+,Cambio de grupo,30/07/2025,"2, VMS 2 -> 3, VMS 3",User1,
+,Inseminación,24/07/2025,Artificial Insemination; HO840M3253835758; BEYONO HI-FIVE-ET; Sexed; Unknown Brand; Roma,Roma,de calor ml tur
+,Celo,24/07/2025,Herd Navigator,Roma,
+,Inseminación,06/07/2025,Artificial Insemination; 8403151003682; TAOS-ET; Unknown Brand; MVZ. GUADALUPE LOPEZ,MVZ. GUADALUPE LOPEZ,DE PROTOCOLO (SOLO FUERON 4 DIAS DE CIDR) :-(
+,Celo,06/07/2025,Otros,MVZ. GUADALUPE LOPEZ,
+,Diagnósticos/Tratamiento,26/06/2025,Dns: Vacia; Loc.: DD; Trat: PG2; Med: ,User1,
+,Control de Gestación,26/06/2025,-,User1,VACIA DE 35 POST. INSEM
+,Inseminación,22/05/2025,Artificial Insemination; 8403214541122; HAYK; Unknown Brand; MVZ. GUADALUPE LOPEZ,MVZ. GUADALUPE LOPEZ,
+,Celo,22/05/2025,Se deja montar,MVZ. GUADALUPE LOPEZ,
+,Inseminación,02/05/2025,Artificial Insemination; 8403213816034; REWAED-RED-ET; Unknown Brand; Roma,Roma,TUR ML
+,Celo,02/05/2025,Herd Navigator,Roma,
+,Diagnósticos/Tratamiento,24/04/2025,Dns: Vacia; Loc.: DD; Trat: PG2; Med: ,User1,
+,Control de Gestación,24/04/2025,-,User1,VACIA DE 34 POST. INSEM
+,Cambio tabla alimentación,20/04/2025,primerizas-DEL -> Primerizas-ProduccionLeche,Admin,
+,Inseminación,21/03/2025,Artificial Insemination; 8403151003682; TAOS-ET; Unknown Brand; Roma,Roma,TUR ML 
+,Celo,21/03/2025,Herd Navigator,Roma,
+,Cambio de grupo,12/03/2025,"1, VMS 1 -> 2, VMS 2",User1,CORRALEO POR PROYECTO CORRAL 4
+,Invitación Visita Veterinaria,13/02/2025,"13/02/2025, Vacas frescas",DR  RAFA (Veterinario),
+,Invitación Visita Veterinaria,06/02/2025,"06/02/2025, Vacas frescas",DR  RAFA (Veterinario),
+,Invitación Visita Veterinaria,30/01/2025,"30/01/2025, Vacas frescas",DR  RAFA (Veterinario),
+,Invitación Visita Veterinaria,23/01/2025,"23/01/2025, Vacas frescas",DR  RAFA (Veterinario),
+,Invitación Visita Veterinaria,09/01/2025,"09/01/2025, Vacas frescas",DR  RAFA (Veterinario),
+,Cambio de grupo,07/01/2025,"3, VMS 3 -> 1, VMS 1",User1,
+,Invitación Visita Veterinaria,02/01/2025,"02/01/2025, Vacas frescas",DR  RAFA (Veterinario),
+,Cambio tabla alimentación,31/12/2024,None -> primerizas-DEL,Admin,
+,Cambio de grupo,30/12/2024,"20, RETO -> 3, VMS 3",DelproCliente,
+,Parto,30/12/2024,Normal; 7369,DelproCliente,
+,Cambio ID Transponder,16/12/2024, -> 982000420235548,,
+,Condición corporal,16/12/2024,Condición corporal: 3.50 - DDUP: 0,User1,
+,Cambio de grupo,16/12/2024,"100, SECAS -> 20, RETO",User1,
+,Diagnósticos/Tratamiento,16/12/2024,"Dns: VITAMINA; Loc.: DD; Trat: VIGANTOL (A,D,E); Med: ",User1,
+,Diagnósticos/Tratamiento,16/12/2024,Dns: BOLO RUMENSIN; Loc.: DD; Trat: BOLO RUMENSIN; Med: BOLO RUMENSIN 1 d 1X1pcs,User1,008122
+,Diagnósticos/Tratamiento,16/12/2024,Dns: VACUNA; Loc.: DD; Trat: starvacc; Med: STARVAC 1 d 1X2ml Intramuscular,User1,
+,Cambio de grupo,17/10/2024,"106, BECERRAS/NOVILLAS -> 100, SECAS",User1,
+,Diagnósticos/Tratamiento,17/10/2024,Dns: VACUNA; Loc.: DD; Trat: ROTAVEC; Med: ,User1,
+,Diagnósticos/Tratamiento,17/10/2024,Dns: VACUNA; Loc.: DD; Trat: starvacc; Med: STARVAC 1 d 1X2ml Intramuscular,User1,
+,Control de Gestación,04/07/2024,+,User1,
+,Peso,19/06/2024,469 kg,User1,1.46 ALTURA
+,Control de Gestación,16/05/2024,+,User1,
+,Control de Gestación,15/05/2024,+,User1,
+,Inseminación,31/03/2024,"Effective Insemination 
+Artificial Insemination; 840003224956190; BARBAZZA ALTA; Unknown Brand; Matías",Matías,
+,Celo,31/03/2024,Se deja montar,Matías,
+,Diagnósticos/Tratamiento,28/03/2024,Dns: Presynch; Loc.: DD; Trat: PG2; Med: ,User1,
+,Diagnósticos/Tratamiento,14/03/2024,Dns: Presynch; Loc.: DD; Trat: PG X1; Med: LUTALYSE 1 d 1X5ml Intramuscular,User1,
+,Invitación Visita Veterinaria,07/03/2024,PG1 Becerras (edad en dias 400-407),DR  RAFA (Veterinario),
+,Entrada,01/02/2023,Nacimiento,DelproCliente,
