@@ -14,18 +14,7 @@ Angel Mauricio Ramirez Herrera A01710158
 
 Diego Antonio García Padilla A01710777
 
-# Normativas
-
-Investigacion Angel -> https://docs.google.com/document/d/1ZKq67SZJSEGS7omckxj90d4jJqqnMfqJ4R0wRJnb7iU/edit?usp=sharing
-
-Investigacion Diego -> https://docs.google.com/document/d/1qbb7-dDlE3FZyWesm9ZWfNBHG-96Oyup6J8B9V54iKU/edit?usp=sharing
-
-Investigacion Paulina -> https://docs.google.com/document/d/1SKFHXIrvShqgfScEOCDuYAZQaKIqgBRclNX-uMVDR0s/edit?usp=sharing
-
-Investigacion Cristian -> https://docs.google.com/document/d/166WqcMwUNFL9DK_MkGf-b3Cm0HZxQkOGgJoWVLaUpL8/edit?usp=sharing
-
-Investigacion Fidel -> https://docs.google.com/document/d/1KlXMR71h-1NnwKKzlhsW-2DW-49aqH2DcRVjx3bQ4Zo/edit?tab=t.0
-
-Investigacion Kevin -> https://docs.google.com/document/d/1lXkWIvJuum8CjaTH2FekHlp6frs0SoMkAJoB2k2Cm5k/edit?usp=sharing
-
-Investigacion Eduardo -> https://docs.google.com/document/d/1mwpsodJFI4wRMDMEI3j6dzjkmlzkpD0GUhyoqGaYpxU/edit?usp=sharing
+# Descripción del entregable
+- Consultar la normativa actual de la industria a la que esté sujeto el socio formador e investiga en reportes técnicos, artículos o foros cuales son los pasos comunes que se toman para garantizar la privacidad de los datos en dicha industria.
+- Establecer un proceso claro sobre cómo se puede trabajar con el set de datos y especifica aspectos como: dónde se puede almacenar, en que tipo de redes puede estar, quien los puede ver y cuales son los documentos o normas que se deben de firmar antes de poder acceder a los datos.
+- Implementar un mecanismo o utiliza una herramienta que les permita establecer registros sobre quien y cuando tuvo acceso a los datos y bajo qué esquema. Estos registros los deberán integrar a su reporte como parte de la evidencia de final de módulo.
