@@ -14,6 +14,17 @@ Angel Mauricio Ramirez Herrera A01710158
 
 Diego Antonio García Padilla A01710777
 
+# Contenido
+Reporte de implementación de la anonimización -> Anonimización de datos.pdf
+Investigaciones individuales sobre normas de anonimización:
+-> Anonimización_Viveros.pdf
+-> Investigación Angel.pdf
+-> Investigación Anonimización Diego.pdf
+-> Investigación Fidel.pdf
+-> Investigación Kevin.pdf
+-> Investigación Paulina.pdf
+-> Investigación de Normativas Cristian.pdf
+
 # Descripción del entregable
 - Consultar la normativa actual de la industria a la que esté sujeto el socio formador e investiga en reportes técnicos, artículos o foros cuales son los pasos comunes que se toman para garantizar la privacidad de los datos en dicha industria.
 - Establecer un proceso claro sobre cómo se puede trabajar con el set de datos y especifica aspectos como: dónde se puede almacenar, en que tipo de redes puede estar, quien los puede ver y cuales son los documentos o normas que se deben de firmar antes de poder acceder a los datos.
