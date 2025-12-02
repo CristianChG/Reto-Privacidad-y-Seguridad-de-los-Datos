@@ -16,13 +16,21 @@ Diego Antonio García Padilla A01710777
 
 # Contenido
 Reporte de implementación de la anonimización -> Anonimización de datos.pdf
+
 Investigaciones individuales sobre normas de anonimización:
+
 -> Anonimización_Viveros.pdf
+
 -> Investigación Angel.pdf
+
 -> Investigación Anonimización Diego.pdf
+
 -> Investigación Fidel.pdf
+
 -> Investigación Kevin.pdf
+
 -> Investigación Paulina.pdf
+
 -> Investigación de Normativas Cristian.pdf
 
 # Descripción del entregable
